@@ -15,7 +15,12 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="DeletionTimes.cpp">
+    <ClInclude Include="DynIntStack.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="DynIntStack.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

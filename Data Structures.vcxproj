@@ -19,7 +19,10 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="DeletionTimes.cpp" />
+    <ClInclude Include="DynIntStack.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="DynIntStack.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
