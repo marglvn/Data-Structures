@@ -15,12 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="DynIntStack.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="DynIntStack.cpp">
+    <ClCompile Include="2DSearchPractice.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

@@ -19,10 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="DynIntStack.h" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="DynIntStack.cpp" />
+    <ClCompile Include="2DSearchPractice.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>

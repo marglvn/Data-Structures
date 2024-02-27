@@ -1,0 +1,4 @@
+﻿  2DSearch.cpp
+C:\Users\Martin\source\repos\Data-Structures\2DSearch.cpp(17,27): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\Martin\source\repos\Data-Structures\2DSearch.cpp(21,21): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+  Data Structures.vcxproj -> C:\Users\Martin\source\repos\Data-Structures\x64\Debug\Data Structures.exe
