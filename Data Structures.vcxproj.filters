@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="DeletionTimes.cpp">
+    <ClCompile Include="Search2DRefined.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

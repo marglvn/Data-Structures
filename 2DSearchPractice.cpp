@@ -3,75 +3,49 @@
 
 using namespace std;
 
-struct location
+template <class T>
+vector<vector<T>> searchVector(vector<vector<T>>& v, T item)
 {
-	int row, col;
-};
+	bool found = false;
 
-vector<location> searchVector(vector<vector<int>>& v, int item)
-{
-	location L;
-	vector<location> locations;
-
-	unsigned int row, col, size;
-	unsigned int num_of_rows = v.size();
-
-	for (row = 0; row < num_of_rows; row++)
+	for (int i = 0; i < v.size(); i++)
 	{
-		size = v[row].size();
-		for (col = 0; col < size; col++)
+		for (int j = 0; j < v[i].size(); j++)
 		{
-			if (v[row][col] == item)
+			if (v[i][j] == item)
 			{
-				L.row = row;
-				L.col = col;
-				locations.push_back(L);
+				cout << i << " " << j << endl;
+				
+				found = true;
 			}
 		}
 	}
 
-	if (locations.size() == 0)
+	if (!found)
 	{
-		L.row = -1;
-		locations.push_back(L);
+		cout << "Item is not found in the vector" << endl;
 	}
 
-	return locations;
+	return v;
 }
 
 int main()
 {
-	vector<vector<int>> matrix{ {8, 3, 2}, {7, 1, 3, 8, 8, 8} };
-	//vector<vector<int>>::iterator itr1;
-	//vector<int>::iterator itr2;
-	vector<location> coords;
-	vector<location>::iterator iterator;
-	int input;
+	vector<vector<float>> matrix{ {8, 3, 2}, {7, 1, 3, 8, 8, 8} };
+	float input;
 
-	
-	cout << "Enter a value you want to find: ";
-	cin >> input;
-	
-	coords = searchVector(matrix, input);
 
-	for (int i = 0; i < coords.size(); i++)
+	for (auto i : matrix)
 	{
-		const location coord = coords[i];
-		cout << coord.row << " " << coord.col << endl;
-	}
-
-	//	To display values
-	/*
-	for (itr1 = matrix.begin(); itr1 != matrix.end(); itr1++)
-	{
-		for (itr2 = itr1->begin(); itr2 != itr1->end(); itr2++)
+		for (auto j : i)
 		{
-			cout << " " << *itr2;
+			cout << " " << j;
 		}
 		cout << endl;
 	}
-	*/
 
-	
-	
+	cout << "Enter: ";
+	cin >> input;
+
+	searchVector(matrix, input);
 }
