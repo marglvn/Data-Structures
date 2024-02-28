@@ -19,7 +19,10 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Search2DRefined.cpp" />
+    <ClCompile Include="IntStack.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="IntStack.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
