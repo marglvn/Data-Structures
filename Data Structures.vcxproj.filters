@@ -18,9 +18,21 @@
     <ClCompile Include="IntStack.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="MathStack.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Pr18-2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ListInsertion.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="IntStack.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="MathStack.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
