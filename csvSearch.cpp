@@ -1,29 +1,36 @@
 #include <iostream>
-#include <string>
+#include <vector>
 #include <fstream>
+#include <string>
+#include <sstream>
 
 using namespace std;
 
-class Solution
+struct location
 {
-	public:
-		int titletoNumber(string s)
-		{
-			int r = 0;
-			for (int i = 0; i < s.length(); i++)
-			{
-				r = r * 26 + s[i] - 64;
-			}
-			return r;
-		}
+	string row, col;
 };
 
 int main()
 {
-	fstream file;
-
-	string filename;
+	fstream inputFile;
+	string fileName, data;
 	cout << "Please enter the input file name: ";
-	getline(cin, filename);
-	file.open(filename.c_str());
+	getline(cin, fileName);
+	inputFile.open(fileName.c_str());
+
+	if (!inputFile.is_open())
+	{
+		cout << "File can not be found" << endl;
+	}
+	
+	while (getline(inputFile, data))
+	{
+		cout << data << endl;;
+	}
+
+	inputFile.close();
+
+	return 0;
+
 }
