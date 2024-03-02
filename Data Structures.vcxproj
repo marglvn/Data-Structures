@@ -19,14 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="IntStack.cpp" />
-    <ClCompile Include="ListInsertion.cpp" />
-    <ClCompile Include="MathStack.cpp" />
-    <ClCompile Include="Pr18-2.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="IntStack.h" />
-    <ClInclude Include="MathStack.h" />
+    <ClCompile Include="csvSearch.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
