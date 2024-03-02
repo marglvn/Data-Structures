@@ -6,9 +6,25 @@
 
 using namespace std;
 
+class Int2Excel
+{
+	public:
+		string convertToTitle(int n)
+		{
+			string r = "";
+			while (n > 0)
+			{
+				r = (char)(65 + (n - 1) % 26) + r;
+				n = (n - 1) / 26;
+			}
+			return r;
+		}
+};
+
 struct location
 {
-	int row, col;
+	int row;
+	string col;
 };
 
 void feedValue(fstream& inputFile, vector<vector<string>>& c)
@@ -52,6 +68,7 @@ void display(vector<vector<string>>& v)
 
 void acquireCoords(vector<vector<string>>& v, vector<location>& l)
 {
+	Int2Excel convert;
 	location L;
 	vector<location> locations;
 
@@ -63,8 +80,8 @@ void acquireCoords(vector<vector<string>>& v, vector<location>& l)
 		size = v[row].size();
 		for (col = 0; col < size; col++)
 		{
-			L.row = row;
-			L.col = col;
+			L.row = row + 1;
+			L.col = convert.convertToTitle(col + 1);
 			locations.push_back(L);
 		}
 	}
