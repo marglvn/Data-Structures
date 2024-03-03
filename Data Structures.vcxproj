@@ -19,11 +19,11 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="csvSearch.cpp" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Data.csv" />
     <None Include="Data2.csv" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="csvSearch.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>

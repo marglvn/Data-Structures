@@ -91,6 +91,11 @@ void coords(vector<vector<string>>& v, vector<location>& l, string i)
 
 void displayL(vector<location>& l)
 {
+	if (l.size() == 0)
+	{
+		return;
+	}
+
 	cout << "The item that you searched for can be\n";
 	cout << "found at the following location(s) ->" << endl;
 
@@ -113,22 +118,24 @@ int main()
 	cout << endl;
 	file.open(fileName.c_str());
 
-	if (!file.is_open())
+	if (file.is_open())
+	{
+		intake(values, file);
+		displayV(values);
+		cout << endl;
+
+		cout << "Please enter what you are searching for: ";
+		getline(cin, input);
+
+		cout << endl;
+
+		coords(values, locations, input);
+
+		displayL(locations);
+	}
+	else
 	{
 		cout << "Error. File not found" << endl;
 	}
-	
-	intake(values, file);
-	displayV(values);
-	cout << endl;
-	
-	cout << "Please enter what you are searching for: ";
-	getline(cin, input);
-
-	cout << endl;
-
-	coords(values, locations, input);
-
-	displayL(locations);
 
 }
