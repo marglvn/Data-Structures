@@ -19,7 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="csvSearchPractice.cpp" />
+    <ClCompile Include="CSVsearch.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Data.csv" />
