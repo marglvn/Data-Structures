@@ -1,6 +1,4 @@
-﻿  csvSearchPractice.cpp
-C:\Users\Martin\source\repos\Data Structures\csvSearchPractice.cpp(56,27): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
-C:\Users\Martin\source\repos\Data Structures\csvSearchPractice.cpp(60,21): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
-C:\Users\Martin\source\repos\Data Structures\csvSearchPractice.cpp(76,27): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
-C:\Users\Martin\source\repos\Data Structures\csvSearchPractice.cpp(80,21): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+﻿  CSVsearch.cpp
+C:\Users\Martin\source\repos\Data Structures\CSVsearch.cpp(53,27): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\Martin\source\repos\Data Structures\CSVsearch.cpp(57,21): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
   Data Structures.vcxproj -> C:\Users\Martin\source\repos\Data Structures\x64\Debug\Data Structures.exe
