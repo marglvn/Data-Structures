@@ -15,12 +15,15 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="CSVsearch.cpp">
+    <ClCompile Include="csvSearch.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="Data.csv">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="Data2.csv">
       <Filter>Source Files</Filter>
     </None>
   </ItemGroup>

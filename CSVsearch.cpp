@@ -45,6 +45,22 @@ void intake(vector<vector<string>>& c, fstream& f)
 	}
 }
 
+void displayV(vector<vector<string>>& s)
+{
+	unsigned int row, col, size;
+	unsigned int num_of_rows = s.size();
+
+	for (row = 0; row < num_of_rows; row++)
+	{
+		size = s[row].size();
+		for (col = 0; col < size; col++)
+		{
+			cout << s[row][col] << ", ";
+		}
+		cout << endl;
+	}
+}
+
 void coords(vector<vector<string>>& v, vector<location>& l, string i)
 {
 	location L;
@@ -69,11 +85,15 @@ void coords(vector<vector<string>>& v, vector<location>& l, string i)
 	if (l.size() == 0)
 	{
 		cout << "This file did not contain the item that you searched for." << endl;
+
 	}
 }
 
-void display(vector<location>& l)
+void displayL(vector<location>& l)
 {
+	cout << "The item that you searched for can be\n";
+	cout << "found at the following location(s) ->" << endl;
+
 	for (int i = 0; i < l.size(); i++)
 	{
 		cout << l[i].row << " " << l[i].col << endl;
@@ -86,7 +106,7 @@ int main()
 	string fileName;
 	vector<vector<string>> values;
 	vector<location> locations;
-	string input;
+	string input, data;
 
 	cout << "Please enter the input file name: ";
 	getline(cin, fileName);
@@ -99,13 +119,16 @@ int main()
 	}
 	
 	intake(values, file);
+	displayV(values);
+	cout << endl;
 	
 	cout << "Please enter what you are searching for: ";
 	getline(cin, input);
 
+	cout << endl;
+
 	coords(values, locations, input);
 
-	display(locations);
-
+	displayL(locations);
 
 }
