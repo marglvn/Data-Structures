@@ -44,3 +44,68 @@ void MathStack::sub()
    // Push diff back onto the stack.
    push(diff);
 }
+
+void MathStack::mul()
+{
+	int num, mult;
+
+	pop(mult);
+	pop(num);
+
+	mult *= num;
+
+	push(mult);
+}
+
+void MathStack::div()
+{
+	int num, divi;
+
+	pop(divi);
+	pop(num);
+
+	divi /= num;
+
+	push(divi);
+}
+
+void MathStack::addAll()
+{
+	int num, sum;
+
+	pop(sum);
+	pop(num);
+
+	while (!isEmpty())
+	{
+		sum += num;
+
+		while (!isEmpty())
+		{
+			pop(num);
+			sum += num;
+		}
+	}
+	push(sum);
+	
+}
+
+void MathStack::multAll()
+{
+	int num, mul;
+
+	pop(mul);
+	pop(num);
+
+	while (!isEmpty())
+	{
+		mul *= num;
+
+		while (!isEmpty())
+		{
+			pop(num);
+			mul *= num;
+		}
+	}
+	push(mul);
+}

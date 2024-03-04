@@ -108,10 +108,9 @@ void displayL(vector<location>& l)
 int main()
 {
 	fstream file;
-	string fileName;
 	vector<vector<string>> values;
 	vector<location> locations;
-	string input, data;
+	string fileName, input;
 
 	cout << "Please enter the input file name: ";
 	getline(cin, fileName);

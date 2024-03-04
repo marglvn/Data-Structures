@@ -24,6 +24,28 @@ int main()
    stack.pop(catchVar);
    cout << catchVar << endl << endl;
 
+   cout << "Pushing 3\n";
+   stack.push(3);
+   cout << "Pushing 6\n";
+   stack.push(6);
+
+   stack.mul();
+
+   cout << "The product is ";
+   stack.pop(catchVar);
+   cout << catchVar << endl << endl;
+
+   cout << "Pushing 3\n";
+   stack.push(3);
+   cout << "Pushing 6\n";
+   stack.push(6);
+
+   stack.div();
+
+   cout << "The quotient is ";
+   stack.pop(catchVar);
+   cout << catchVar << endl << endl;
+
    // Push 7 and 10 onto the stack
    cout << "Pushing 7\n";
    stack.push(7);
@@ -36,7 +58,48 @@ int main()
    // Pop the difference off the stack and display it.
    cout << "The difference is ";
    stack.pop(catchVar);
-   cout << catchVar << endl;
+   cout << catchVar << endl << endl;
+
+   cout << "Pushing 3\n";
+   stack.push(3);
+   cout << "Pushing 5\n";
+   stack.push(5);
+   cout << "Pushing 10\n";
+   stack.push(10);
+
+   stack.addAll();
+
+   cout << "The sum of all values in the stack is ";
+   stack.pop(catchVar);
+   cout << catchVar << endl << endl;
+
+   cout << "Pushing 1\n";
+   stack.push(1);
+
+   stack.addAll();
+
+   cout << "The sum of all values in the stack is ";
+   stack.pop(catchVar);
+   cout << catchVar << endl << endl;
+
+   cout << "Pushing 2\n";
+   stack.push(2);
+   cout << "Pushing 3\n";
+   stack.push(3);
+   cout << "Pushing 4\n";
+   stack.push(4);
+   cout << "Pushing 5\n";
+   stack.push(5);
+   cout << "Pushing 6\n";
+   stack.push(6);
+
+   stack.multAll();
+
+   cout << "The product of all values in the stack is ";
+   stack.pop(catchVar);
+   cout << catchVar << endl << endl;
+
+
 
    system("pause");
    return 0;
