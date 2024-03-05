@@ -1,5 +1,7 @@
 // Implementation file for the MathStack class
 #include "MathStack.h"
+#include <iostream>
+using namespace std;
 
 //***********************************************
 // Member function add. add pops                *
@@ -71,6 +73,45 @@ void MathStack::div()
 
 void MathStack::addAll()
 {
+	int num, sum = 0;
+
+	if (isEmpty())
+	{
+		cout << "Can not addAll. The stack is empty." << endl;
+	}
+	else
+	{
+		while (!isEmpty())
+		{
+			pop(num);
+			sum += num;
+		}
+		push(sum);
+	}
+}
+
+void MathStack::multAll()
+{
+	int num, prd = 0;
+
+	if (isEmpty())
+	{
+		cout << "Can not multAll. The stack is empty." << endl;
+	}
+	else
+	{
+		while (!isEmpty())
+		{
+			pop(num);
+			prd += num;
+		}
+		push(prd);
+	}
+}
+
+/*
+void MathStack::addAll()
+{
 	int num, sum;
 
 	pop(sum);
@@ -109,3 +150,4 @@ void MathStack::multAll()
 	}
 	push(mul);
 }
+*/

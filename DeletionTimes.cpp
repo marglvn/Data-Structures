@@ -113,13 +113,13 @@ int main()
 	}
 
 	begin = clock();	//	begins the count; normally this is going to be clocked at 0
-	for (iteration = 0; iteration < num_of_iterations; iteration++)	//	amount of times it runs the inner for loop
-	{
+	//for (iteration = 0; iteration < num_of_iterations; iteration++)	//	amount of times it runs the inner for loop
+	//{
 		for (int i = 0; i < numbers.size(); i++)	//	begins deleting values from vector
 		{
 			numbers.erase(numbers.begin() + i);
 		}
-	}
+	//}
 	end = clock();
 
 	elapsed_seconds = (double(end) - double(begin)) / CLOCKS_PER_SEC;

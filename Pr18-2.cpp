@@ -98,7 +98,7 @@ int main()
    cout << "The product of all values in the stack is ";
    stack.pop(catchVar);
    cout << catchVar << endl << endl;
-
+   
 
 
    system("pause");
