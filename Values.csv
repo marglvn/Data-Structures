@@ -198,3 +198,803 @@ MUSA 1228,Applied Harp
 MUSA 1230,Applied Flute
 MUSA 1232,Applied Oboe
 MUSA 1233,Applied Piccolo
+MUSA 1234,Applied Clarinet
+MUSA 1238,Applied Saxophone
+MUSA 1244,Applied Trombone
+MUSA 1246,Applied Tuba
+MUSA 1248,Applied Euphonium
+MUSA 1250,Applied Percussion
+MUSA 1260,Applied Music
+MUSA 1270,Applied Jazz Saxophone
+MUSA 1272,Applied Jazz Bass
+MUSA 1276,Applied Jazz Percussion
+MUSA 1278,Applied Jazz Guitar
+MUSA 1300,Applied Voice
+MUSA 1310,Applied Piano
+MUSA 1312,Applied Organ
+MUSA 1314,Applied Harpsichord
+MUSA 1320,Applied Violin
+MUSA 1322,Applied Viola
+MUSA 1324,Applied Violoncello
+MUSA 1326,Applied Double Bass
+MUSA 1328,Applied Harp
+MUSA 1330,Applied Flute
+MUSA 1332,Applied Oboe
+MUSA 1333,Applied Piccolo
+MUSA 1334,Applied Clarinet
+MUSA 1336,Applied Bassoon
+MUSA 1338,Saxophone
+MUSA 1340,Applied Trumpet
+MUSA 1342,Applied French Horn
+MUSA 1344,Applied Trombone
+MUSA 1346,Applied Tuba
+MUSA 1348,Applied Euphonium
+MUSA 1350,Applied Percussion
+MUSA 1370,Applied Jazz Saxophone
+MUSA 1372,Applied Jazz Bass
+MUSA 1376,Applied Jazz Percussion
+MUSA 1378,Applied Jazz Guitar
+MUSA 2102,Applied Composition
+MUSA 2160,Applied Music
+MUSA 2200,Applied Voice
+MUSA 2202,Applied Composition
+MUSA 2203,Applied Composition
+MUSA 2210,Applied Piano
+MUSA 2212,Applied Organ
+MUSA 2214,Applied Harpsichord
+MUSA 2220,Applied Violin
+MUSA 2226,Applied Double Bass
+MUSA 2229,Applied Harp
+MUSA 2230,Applied Flute
+MUSA 2233,Applied Piccolo
+MUSA 2234,Applied Clarinet
+MUSA 2236,Applied Bassoon
+MUSA 2239,Applied Saxophone
+MUSA 2242,Applied French Horn
+MUSA 2245,Applied Trombone
+MUSA 2248,Applied Euphonium
+MUSA 2250,Applied Percussion
+MUSA 2260,Applied Music
+MUSA 2270,Applied Jazz Saxophone
+MUSA 2276,Applied Jazz Percussion
+MUSA 2278,Applied Jazz Guitar
+MUSA 2282,Applied Jazz Trombone
+MUSA 2300,Applied Voice
+MUSA 2310,Applied Piano
+MUSA 2312,Applied Organ
+MUSA 2314,Applied Harpsichord
+MUSA 2320,Applied Violin
+MUSA 2322,Applied Viola
+MUSA 2324,Applied Violoncello
+MUSA 2326,Applied Double Bass
+MUSA 2328,Applied Harp
+MUSA 2330,Applied Flute
+MUSA 2332,Applied Oboe
+MUSA 2333,Applied Piccolo
+MUSA 2334,Applied Clarinet
+MUSA 2336,Applied Bassoon
+MUSA 2338,Applied Saxophone
+MUSA 2340,Applied Trumpet
+MUSA 2342,Applied French Horn
+MUSA 2344,Applied Trombone
+MUSA 2346,Applied Tuba
+MUSA 2348,Applied Euphonium
+MUSA 2350,Applied Percussion
+MUSA 2370,Applied Jazz Saxophone
+MUSA 2372,Applied Jazz Bass
+MUSA 2376,Applied Jazz Percussion
+MUSA 2378,Applied Jazz Guitar
+MUSA 3102,Applied Composition
+MUSA 3160,Applied Music
+MUSA 3189,Junior Recital
+MUSA 3200,Applied Voice
+MUSA 3202,Applied Composition
+MUSA 3203,Applied Composition
+MUSA 3210,Applied Piano
+MUSA 3211,Applied Piano
+MUSA 3212,Applied Organ
+MUSA 3214,Applied Harpsichord
+MUSA 3220,Applied Violin
+MUSA 3222,Applied Viola
+MUSA 3226,Applied Double Bass
+MUSA 3231,Applied Flute
+MUSA 3232,Applied Oboe
+MUSA 3233,Applied Piccolo
+MUSA 3236,Applied Bassoon
+MUSA 3239,Applied Saxophone
+MUSA 3242,Applied French Horn
+MUSA 3244,Applied Trombone
+MUSA 3245,Applied Trombone
+MUSA 3248,Applied Euphonium
+MUSA 3250,Applied Percussion
+MUSA 3260,Applied Music
+MUSA 3270,Applied Jazz Saxophone
+MUSA 3272,Applied Jazz Bass
+MUSA 3276,Applied Jazz Percussion
+MUSA 3278,Applied Jazz Guitar
+MUSA 3300,Applied Voice
+MUSA 3302,Applied Composition
+MUSA 3310,Applied Piano
+MUSA 3312,Applied Organ
+MUSA 3314,Applied Harpsichord
+MUSA 3320,Applied Violin
+MUSA 3322,Applied Viola
+MUSA 3324,Applied Violoncello
+MUSA 3326,Applied Double Bass
+MUSA 3328,Applied Harp
+MUSA 3330,Applied Flute
+MUSA 3332,Applied Oboe
+MUSA 3333,Applied Piccolo
+MUSA 3334,Applied Clarinet
+MUSA 3336,Applied Bassoon
+MUSA 3338,Applied Saxophone
+MUSA 3340,Applied Trumpet
+MUSA 3342,Applied French Horn
+MUSA 3344,Applied Trombone
+MUSA 3346,Applied Tuba
+MUSA 3348,Applied Euphonium
+MUSA 3350,Applied Percussion
+MUSA 3370,Applied Jazz Saxophone
+MUSA 3372,Applied Jazz Bass
+MUSA 3376,Applied Jazz Percussion
+MUSA 3378,Applied Jazz Guitar
+MUSA 3400,Applied Voice
+MUSA 3402,Applied Composition
+MUSA 3410,Applied Piano
+MUSA 3412,Applied Organ
+MUSA 3414,Applied Harpsichord
+MUSA 3420,Applied Violin
+MUSA 3422,Applied Viola
+MUSA 3424,Applied Violoncello
+MUSA 3426,Applied Double Bass
+MUSA 3428,Applied Harp
+MUSA 3430,Applied Flute
+MUSA 3432,Applied Oboe
+MUSA 3433,Applied Piccolo
+MUSA 3434,Applied Clarinet
+MUSA 3436,Applied Bassoon
+MUSA 3438,Applied Saxophone
+MUSA 3440,Applied Trumpet
+MUSA 3442,Applied French Horn
+MUSA 3444,Applied Trombone
+MUSA 3446,Applied Tuba
+MUSA 3448,Applied Euphonium
+MUSA 3450,Applied Percussion
+MUSA 3470,Applied Jazz Saxophone
+MUSA 3472,Applied Jazz Bass
+MUSA 3476,Applied Jazz Percussion
+MUSA 3478,Applied Jazz Guitar
+MUSA 4102,Applied Composition
+MUSA 4120,Applied Violin
+MUSA 4122,Applied Viola
+MUSA 4124,Applied Violoncello
+MUSA 4130,Applied Flute
+MUSA 4132,Applied Oboe
+MUSA 4134,Applied Clarinet
+MUSA 4136,Applied Bassoon
+MUSA 4142,Applied French Horn
+MUSA 4144,Applied Trombone
+MUSA 4146,Applied Tuba
+MUSA 4150,Applied Percussion
+MUSA 4160,Applied Music
+MUSA 4189,Senior Recital
+MUSA 4200,Applied Voice
+MUSA 4202,Applied Composition
+MUSA 4203,Applied Composition
+MUSA 4210,Applied Piano
+MUSA 4214,Applied Harpsichord
+MUSA 4220,Applied Violin
+MUSA 4222,Applied Viola
+MUSA 4224,Applied Violoncello
+MUSA 4230,Applied Flute
+MUSA 4231,Applied Flute
+MUSA 4233,Applied Piccolo
+MUSA 4234,Applied Clarinet
+MUSA 4236,Applied Bassoon
+MUSA 4238,Applied Saxophone
+MUSA 4245,Applied Trombone
+MUSA 4248,Applied Euphonium
+MUSA 4250,Applied Percussion
+MUSA 4260,Applied Music
+MUSA 4270,Applied Jazz Saxophone
+MUSA 4272,Applied Jazz Bass
+MUSA 4276,Applied Jazz Percussion
+MUSA 4278,Applied Jazz Guitar
+MUSA 4300,Applied Voice
+MUSA 4302,Applied Composition
+MUSA 4310,Applied Piano
+MUSA 4312,Applied Organ
+MUSA 4314,Applied Harpsichord
+MUSA 4320,Applied Violin
+MUSA 4322,Applied Viola
+MUSA 4324,Applied Violoncello
+MUSA 4326,Applied Double Bass
+MUSA 4328,Applied Harp
+MUSA 4330,Applied Flute
+MUSA 4332,Applied Oboe
+MUSA 4333,Applied Piccolo
+MUSA 4334,Applied Clarinet
+MUSA 4336,Applied Bassoon
+MUSA 4338,Applied Saxophone
+MUSA 4340,Applied Trumpet
+MUSA 4342,Applied French Horn
+MUSA 4344,Applied Trombone
+MUSA 4346,Applied Tuba
+MUSA 4348,Applied Euphonium
+MUSA 4350,Applied Percussion
+MUSA 4370,Applied Jazz Saxophone
+MUSA 4372,Applied Jazz Bass
+MUSA 4376,Applied Jazz Percussion
+MUSA 4378,Applied Jazz Guitar
+MUSA 4400,Applied Voice
+MUSA 4402,Applied Composition
+MUSA 4410,Applied Piano
+MUSA 4412,Applied Organ
+MUSA 4414,Applied Harpsichord
+MUSA 4420,Applied Violin
+MUSA 4422,Applied Viola
+MUSA 4424,Applied Violoncello
+MUSA 4426,Applied Double Bass
+MUSA 4428,Applied Harp
+MUSA 4430,Applied Flute
+MUSA 4432,Applied Oboe
+MUSA 4433,Applied Piccolo
+MUSA 4434,Applied Clarinet
+MUSA 4436,Applied Bassoon
+MUSA 4438,Applied Saxophone
+MUSA 4440,Applied Trumpet
+MUSA 4442,Applied French Horn
+MUSA 4444,Applied Trombone
+MUSA 4446,Applied Tuba
+MUSA 4448,Applied Euphonium
+MUSA 4450,Applied Percussion
+MUSA 4470,Applied Jazz Saxophone
+MUSA 4472,Applied Jazz Bass
+MUSA 4476,Applied Jazz Percussion
+MUSA 4478,Applied Jazz Guitar
+ARAB 1501,Beginning Arabic I
+ARAB 1502,Beginning Arabic II
+ARAB 2311,Intermediate Arabic I
+ARAB 2312,Intermediate Arabic II
+ARAB 3301,Adv Modern Standard Arabic I
+ARAB 3302,Advanced Modern Standard Arabic II
+ARAB 3312,Introduction to Arabic Literature in Translation
+ARAB 3313,Qur’an as Literature
+ARAB 3314,Women and Gender in Arabic Literature
+ARAB 3340,Modern & Rationalism in Islamic Tradition
+ARAB 3377,"Energy, Society and the Middle East"
+ARAB 3397,Selected Topics Arab Studies
+ARCH 1198,Special Problems
+ARCH 1210,Introduction to Design Media
+ARCH 1358,Introduction to Design Culture
+ARCH 1360,Architectural Sketching I
+ARCH 1500,Design Studio I
+ARCH 1501,Architecture and Interior Architecture Design Studio II
+ARCH 2327,Technology I
+ARCH 2328,Technology 2
+ARCH 2331,Digital Vocabularies
+ARCH 2350,History of the Built Environment I
+ARCH 2351,History of the Built Environment II
+ARCH 2397,Selected Topics
+ARCH 2500,Architecture and Interior Architecture Design Studio III
+ARCH 2501,Architecture Design Studio IV
+ARCH 3111,Topics in Design History
+ARCH 3112,Topics in Design Media
+ARCH 3113,Topics in Design Practice
+ARCH 3114,Topics in Design Technology
+ARCH 3198,Independent Study
+ARCH 3211,Topics in Design History
+ARCH 3212,Topics in Design Media
+ARCH 3213,Topics in Design Practice
+ARCH 3214,Topics in Design Technology
+ARCH 3230,Programming and Building Regulations
+ARCH 3311,Topics in Design History
+ARCH 3312,Topics in Design Media
+ARCH 3313,Topics in Design Practice
+ARCH 3314,Topics in Design Technology
+ARCH 3327,Technology 3
+ARCH 3328,Technology 4
+ARCH 3332,Advanced Digital Vocabularies
+ARCH 3335,Digital Fabrication
+ARCH 3341,Contemporary Japanese Architecture
+ARCH 3342,Shape of the City
+ARCH 3343,Latin American Architecture
+ARCH 3347,Evolution of Architectural Interiors
+ARCH 3354,The Culture of Architecture
+ARCH 3358,History of Asian Arch and Art
+ARCH 3365,Architectural Research
+ARCH 3368,Sustainable Development
+ARCH 3371,"Landscape, Ecology, Urbanism"
+ARCH 3374,World Cities
+ARCH 3375,Arch Design for Non-Majors
+ARCH 3380,Architecture Plus Film
+ARCH 3391,Introduction to the Preservation of 20th Century Architecture
+ARCH 3392,Research and Documentation of 20th Century Architecture
+ARCH 3393,Thesis Preparation
+ARCH 3397,Selected Topics
+ARCH 3398,Independent Study
+ARCH 3500,Architecture Design Studio V
+ARCH 3501,Architecture Design Studio VI
+ARCH 4111,Advanced Topics in Design History
+ARCH 4112,Advanced Topics in Design Media
+ARCH 4113,Advanced Topics in Design Practice
+ARCH 4114,Advanced Topics in Design Technology
+ARCH 4211,Advanced Topics in Design History
+ARCH 4212,Advanced Topics in Design Media
+ARCH 4213,Advanced Topics in Design Practice
+ARCH 4214,Advanced Topics in Design Technology
+ARCH 4311,Advanced Topics in Design History
+ARCH 4312,Advanced Topics in Design Media
+ARCH 4313,Advanced Topics in Design Practice
+ARCH 4314,Advanced Topics in Design Technology
+ARCH 4321,Design of Construction Details
+ARCH 4324,High-Rise Structures
+ARCH 4325,Building Systems Integration
+ARCH 4327,Technology 5
+ARCH 4328,Technology 6 Practice of Architecture
+ARCH 4336,Graphic Realization in Design
+ARCH 4351,Readings & Criticism in Architecture
+ARCH 4354,Ideas and Buildings
+ARCH 4355,Houston Architecture
+ARCH 4367,Case Studies:Sustainable Arch
+ARCH 4373,Urban Environments
+ARCH 4375,"Capitalism, Arch and the City"
+ARCH 4376,Community Design Workshop
+ARCH 4390,Landscape Architecture
+ARCH 4391,Techniques for Preservation of 20th Century Architecture
+ARCH 4393,Thesis Publication
+ARCH 4397,Selected Topics
+ARCH 4398,Independent Study
+ARCH 4510,Integrated Architectural Solutions
+ARCH 5500,Architecture Design Studio IX
+ARCH 5501,Architecture Design Studio X
+ARCH 5502,Architecture Design Studio-Traveling
+ARCH 5508,Design Studio: Historic Structures and Sites
+ARCH 5593,Thesis Project
+ARTS 1303,Art History I (Prehistoric to the 14th Century)
+ARTS 1304,Art History II (15th Century to the Present)
+ARTS 1311,Fundamentals of Graphic Design
+ARTS 1316,Fundamentals of Drawing
+ARTS 1317,Drawing II
+ARTS 1372,Fundamentals of Video Art
+ARTS 1383,Introduction to New Media
+ARTS 1397,Sel Topic Fund Studio Art
+ARTS 2311,"Color, Materials and Methods"
+ARTS 2316,Fundamentals of Painting
+ARTS 2326,Fundamentals of Sculpture
+ARTS 2333,Fundamentals of Printmaking
+ARTS 2346,Fundamentals of Ceramics
+ARTS 2348,Digital Tools
+ARTS 2356,Fundamentals of Photography/Digital Media
+ARTS 2366,Watercolor
+ARTS 3300,Advanced Drawing
+ARTS 3301,Life Drawing
+ARTS 3304,Intermediate Painting
+ARTS 3309,Jr Painting Major
+ARTS 3310,Jr Painting Major
+ARTS 3311,Jr Painting Major
+ARTS 3312,Intaglio
+ARTS 3313,Silkscreen
+ARTS 3314,Lithography
+ARTS 3315,Monoprint/Monotype Printmaking
+ARTS 3316,Relief Printmaking
+ARTS 3318,Book Arts
+ARTS 3321,Perspective Drawing
+ARTS 3328,Rendering and Sketching
+ARTS 3330,Intermediate Graphic Design
+ARTS 3331,Graphic Design Software
+ARTS 3334,Introduction to Typography
+ARTS 3335,Junior Graphic Design Major
+ARTS 3336,Junior Graphic Design Major
+ARTS 3337,Junior Graphic Design Major
+ARTS 3350,Intermediate Ceramics
+ARTS 3353,Glaze and Clay Formulations
+ARTS 3358,Clay Processes
+ARTS 3360,Intermediate Sculpture
+ARTS 3361,Wood and Metal Fabrication
+ARTS 3362,Advanced Sculpture
+ARTS 3364,Plastics Fabrication
+ARTS 3365,Jr Sculpture Major
+ARTS 3366,Jr Sculpture Major
+ARTS 3367,Jr Sculpture Major
+ARTS 3370,Traditional Photography
+ARTS 3371,Photography/Digital Media Portfolio Development
+ARTS 3372,Intermediate Video Art
+ARTS 3374,Computer Imaging
+ARTS 3375,Jr Photo/Digital Media Major
+ARTS 3376,Jr Photo/Digital Media Major
+ARTS 3377,Jr Photo/Digital Media Major
+ARTS 3383,Digital Fabrication
+ARTS 3384,Sound Art
+ARTS 3396,Selected Tops Studio Practice
+ARTS 3397,Sel Tops in Fine Arts
+ARTS 3399,Senior Honors Thesis
+ARTS 4198,Independent Study
+ARTS 4298,Independent Study
+ARTS 4300,Senior Painting Major I
+ARTS 4301,Senior Painting Major I
+ARTS 4302,Senior Painting Major I
+ARTS 4303,Senior Painting Major II
+ARTS 4304,Senior Painting Major II
+ARTS 4305,Senior Painting Major II
+ARTS 4330,Senior Graphic Design Major I
+ARTS 4331,Senior Graphic Design Major I
+ARTS 4332,Senior Graphic Design Major I
+ARTS 4333,Senior Graphic Design Major II
+ARTS 4334,Senior Graphic Design Major II
+ARTS 4335,Senior Graphic Design Major II
+ARTS 4360,Senior Sculpture Major I
+ARTS 4361,Senior Sculpture Major I
+ARTS 4362,Senior Sculpture Major I
+ARTS 4363,Senior Sculpture Major II
+ARTS 4364,Senior Sculpture Major II
+ARTS 4365,Senior Sculpture Major II
+ARTS 4370,Senior Photography/Digital Media Major I
+ARTS 4371,Senior Photography/Digital Media Major I
+ARTS 4372,Senior Photography/Digital Media Major I
+ARTS 4373,Senior Photography/Digital Media Major II
+ARTS 4374,Senior Photography/Digital Media Major II
+ARTS 4375,Senior Photography/Digital Media Major II
+ARTS 4380,Professional Practices
+ARTS 4381,Pursuing Utopia
+ARTS 4390,Museum Internship at Blaffer Art Museum
+ARTS 4392,Sel Top in Contemporary Art
+ARTS 4394,Sel Tops in Art History
+ARTS 4395,Sel Tops in Design
+ARTS 4396,Selected Topics in Studio Practice
+ARTS 4397,Sel Topics in Fine Arts
+ARTS 4398,Independent Study
+ARTS 4399,Senior Honors Thesis
+ARTS 4498,Independent Study
+ARED 2310,Introduction to Critical Visual Culture
+ARED 3305,Art in Elementary Schools
+ARED 4345,Art in the Elementary and Secondary Schools
+ARED 4365,Integrative Art Teaching
+ARTH 1300,Ways of Seeing: Art and Our Visual World
+ARTH 2381,Classical Art
+ARTH 2382,Medieval Art and Society
+ARTH 2384,Baroque Art
+ARTH 2386,Nineteenth Century Art
+ARTH 2388,"African, Oceania, Americas Art"
+ARTH 2389,Modern and Contemporary Art
+ARTH 2394,Selected Topics in Art History
+ARTH 3301,Critical Theory
+ARTH 3302,Contemporary Art Criticism
+ARTH 3303,After Theory
+ARTH 3304,Virtual Curating
+ARTH 3311,Greek Art
+ARTH 3312,Pre-Columbian Art
+ARTH 3313,Roman Art
+ARTH 3314,Latin American Art
+ARTH 3315,History of Prints in the West
+ARTH 3317,Ancient Near Eastern Art
+ARTH 3318,Art and Architecture of India
+ARTH 3325,18th Century European Art
+ARTH 3326,European Romanticism
+ARTH 3327,Visual Culture of French Revolution
+ARTH 3328,Late 19th Century Art &Culture
+ARTH 3330,Impressionism: The Painters of Modern Life
+ARTH 3332,20th Century Design
+ARTH 3333,Issues in Contemporary Design
+ARTH 3334,History of Graphic Design
+ARTH 3335,Surrealism and Its Legacies
+ARTH 3336,"Contemporary Art, 1960s-1980s: The Postmodern Turn"
+ARTH 3337,"Contemporary Art, 1980s-Present: Democracy, Identity, Globalization"
+ARTH 3376,Representations of Gender
+ARTH 3378,Global History of Photography
+ARTH 3379,History of 20th and 21th Century Photography
+ARTH 3380,17Th Century Dutch Art
+ARTH 3382,Northern Renaissance
+ARTH 3389,Italian Gothic Art/Patronage
+ARTH 3394,Selected Topics in Art History
+ARTH 3395,Selected Topics in Critical Theory and Criticism
+ARTH 3396,Selected Topics in Critical Studies in Film and Video
+ARTH 3399,Senior Honors Thesis
+ARTH 4310,Human Body in Non-Western Art
+ARTH 4311,"Medieval Arts,Artist,Patrons"
+ARTH 4314,Medieval Illuminated Manuscripts
+ARTH 4315,Reading Medieval Art
+ARTH 4319,Readings in 19Th Century Photo
+ARTH 4320,Readings in 20th and 21st Century Photography
+ARTH 4379,Art Since 1945
+ARTH 4380,Museums and the Problem of Display
+ARTH 4381,Seminar On Rembrandt
+ARTH 4383,Contemporary Painting
+ARTH 4385,Senior Seminar in Art History
+ARTH 4388,Methods of Art History
+ARTH 4394,Sel Tops in Art History
+ARTH 4395,Selected Topics in Contemporary Theory and Practice
+ARTH 4398,Independent Study
+ARTH 4399,Senior Honors Thesis
+ARLD 3300,Introduction to Arts Administration
+ARLD 4397,Special Topics in Arts Leadership
+AAMS 2300,Introduction to Asian American Studies
+AAMS 2330,Introduction to Southeast Asian American Studies
+AAMS 3310,Asian American in Popular Culture
+AAMS 3315,Asian American Migration and Transnationalism
+AAMS 3325,Asian American Cinema
+AAMS 3330,The Vietnamese American Experience
+AAMS 3345,Asian-African American Relations
+AAMS 4300,Asian American Cultures and Communities
+AAMS 4320,Asian American Literature
+AAMS 4321,Vietnamese American Community and Ethnography
+AAMS 4322,Ethnography and Asian American Community
+AAMS 4397,Selected Topics in Asian American Studies
+BCHS 1197,Selected Topics in Biochemistry
+BCHS 1297,Selected Topics in Biochemistry
+BCHS 1397,Selected Topics in Biochemistry
+BCHS 2197,Selected Topics in Biochemistry
+BCHS 3197,Selected Topics in Biochemistry
+BCHS 3201,Biochemistry I Laboratory
+BCHS 3297,Selected Topics in Biochemistry
+BCHS 3304,General Biochemistry I
+BCHS 3305,General Biochemistry II
+BCHS 3307,Biochemistry for Nutrition Majors
+BCHS 3396,Senior Research Project
+BCHS 3399,Senior Honors Thesis
+BCHS 4197,Selected Topics in Biochemistry
+BCHS 4198,Independent Study
+BCHS 4298,Independent Study
+BCHS 4304,Biophysics
+BCHS 4306,Nucleic Acids
+BCHS 4307,Proteins
+BCHS 4311,Biochemistry Lab II
+BCHS 4312,Molecular Modeling of Biological Macromolecules
+BCHS 4313,Cell Biochemistry
+BCHS 4314,Lipids and Carbohydrates
+BCHS 4321,Genomics and Proteomics
+BCHS 4322,Biochemistry of Organelles
+BCHS 4323,Protein Biosynthesis
+BCHS 4324,Bioinformatics
+BCHS 4325,Molecular Microbiology
+BCHS 4355,Eukaryotic Gene Regulation
+BCHS 4360,Evolutionary Basis of Health and Disease
+BCHS 4361,Clinical Biochemistry
+BCHS 4370,Frontiers in Nano-Biotechnology
+BCHS 4396,Senior Research Project
+BCHS 4397,Topics-Biochem & Biophys Sci
+BCHS 4398,Independent Study
+BCHS 4399,Senior Honors Thesis
+BCHS 4498,Independent Study
+BIOL 1106,Biology for Science Majors I (lab)
+BIOL 1107,Biology for Science Majors II (lab)
+BIOL 1197,Selected Topics in Biology
+BIOL 1297,Selected Topics in Biology
+BIOL 1305,Human Biology for the Informed Citizen
+BIOL 1306,Biology for Science Majors I (lecture)
+BIOL 1307,Biology for Science Majors II (lecture)
+BIOL 1308,Biology for Non-Science Majors I (lecture)
+BIOL 1309,Biology for Non-Science Majors II (lecture)
+BIOL 1319,Human Genetics and Society
+BIOL 1397,Selected Topics in Biology
+BIOL 2101,Anatomy & Physiology Laboratory I (lab)
+BIOL 2102,Anatomy & Physiology II (lab)
+BIOL 2120,Microbiology for Non-Science Majors Laboratory (lab)
+BIOL 2121,Microbiology for Science Majors (lab)
+BIOL 2197,Selected Topics in Biology
+BIOL 2297,Selected Topics in Biology
+BIOL 2301,Anatomy and Physiology I (lecture)
+BIOL 2302,Anatomy and Physiology II (lecture)
+BIOL 2315,Biology of Food
+BIOL 2320,Microbiology for Non-Science Majors (lecture)
+BIOL 2321,Microbiology for Science Majors (lecture)
+BIOL 2397,Selected Topics in Biology
+BIOL 3197,Selected Topics in Biology
+BIOL 3224,Human Physiology Laboratory
+BIOL 3297,Selected Topics in Biology
+BIOL 3301,Mendelian and Population Genetics
+BIOL 3304,The Biology of Social Behavior
+BIOL 3305,Biodiversity
+BIOL 3306,Evolutionary Biology
+BIOL 3307,Introduction to Scientific Research
+BIOL 3311,Advanced Methods and Writing in Genetics Laboratory
+BIOL 3324,Human Physiology
+BIOL 3326,History and Philosophy of Biology
+BIOL 3330,Biological Field Research
+BIOL 3340,Invertebrate Zoology
+BIOL 3341,Human Genetics
+BIOL 3345,Plant Physiology
+BIOL 3350,Science Communication Strategies
+BIOL 3359,Environmental Biology of Texas
+BIOL 3365,Sex and Gender in Biology and Society
+BIOL 3368,Ecology
+BIOL 3396,Senior Research Project
+BIOL 3397,Selected Topics in Biology
+BIOL 3399,Senior Honors Thesis
+BIOL 4103,Integration of Biological Knowledge
+BIOL 4151,Biology Internship
+BIOL 4197,Selected Topics in Biology
+BIOL 4198,Independent Study
+BIOL 4206,Ecology and Evolution Laboratory
+BIOL 4272,Cellular and Developmental Biology Laboratory
+BIOL 4298,Independent Study
+BIOL 4301,Conservation Biology
+BIOL 4302,Galapago! Research-based Learning Abroad
+BIOL 4309,Mathematical Biology
+BIOL 4310,Biostatistics
+BIOL 4311,Genomic Data Analysis
+BIOL 4312,Interpreting Experimental Biology
+BIOL 4315,Neuroscience
+BIOL 4320,Molecular Biology
+BIOL 4323,Immunology
+BIOL 4324,Bioinformatics
+BIOL 4330,Molecular Basis of Infectious Disease
+BIOL 4340,Research Methods
+BIOL 4342,Introduction to Marine Biology
+BIOL 4347,Animal Behavior
+BIOL 4350,The Biology of Animal Signaling
+BIOL 4351,Current Topics in Reproductive Biology
+BIOL 4354,Endocrinology
+BIOL 4355,Human Virology
+BIOL 4356,Genomics
+BIOL 4360,Evolutionary Basis of Health and Disease
+BIOL 4365,Applied Evolution
+BIOL 4366,Molecular and Genome Evolution
+BIOL 4367,Evolutionary Ecology
+BIOL 4370,Ecology and Development
+BIOL 4373,Microbial Physiology
+BIOL 4374,Cell Biology
+BIOL 4384,Developmental Biology
+BIOL 4396,Senior Research Project
+BIOL 4397,Selected Topics in Biology
+BIOL 4398,Independent Study
+BIOL 4399,Senior Honors Thesis
+BIOL 4498,Independent Study
+BIOE 1331,Computing for Biomedical Engineering
+BIOE 2100,Introduction To Biomedical Engineering
+BIOE 2331,Biomedical Processes
+BIOE 2397,Selected Topics
+BIOE 3140,Quantitative Physiology Laboratory
+BIOE 3340,Quantitative Physiology
+BIOE 3341,Biothermodynamics
+BIOE 3351,Introduction to Diseases
+BIOE 3399,Senior Honors Thesis
+BIOE 4115,Introduction to Bioinstrumentation Lab
+BIOE 4150,Genomic and Proteomic Engineering Laboratory
+BIOE 4197,Selected Topics
+BIOE 4198,BME Independent Study
+BIOE 4302,Numerical Analysis for Biomedical Engineering
+BIOE 4303,Biomaterials
+BIOE 4305,Brain Machine Interfacing
+BIOE 4307,Optical Imaging
+BIOE 4308,Neural Engineering Methods and Applications
+BIOE 4309,Neural Technology Interfaces
+BIOE 4310,Drug Design and Delivery
+BIOE 4311,Advances in Vision Research
+BIOE 4313,Introduction to Neural Computation
+BIOE 4314,Engineering Physiology of the Human Body
+BIOE 4315,Bioinstrumentation
+BIOE 4319,Mass Transport Phenomena in Biological Systems
+BIOE 4335,Capstone Design I
+BIOE 4336,Capstone Design II
+BIOE 4342,Biomedical Signal Processing
+BIOE 4347,Cellular and Molecular Biology for BME
+BIOE 4348,Tissue Engineering: Principles & Practice
+BIOE 4349,Biomedical Microdevices
+BIOE 4350,Genomic and Proteomic Engineering
+BIOE 4366,Biomolecular Engr Fundamentals
+BIOE 4397,Selected Topics
+BIOE 4398,BME Independent Study
+BIOE 4399,Senior Honors Thesis
+BIOE 5315,Healthcare Innovations and Entrepreneurship
+BIOE 5317,Introduction to Biomedical Imaging
+BIOE 5318,Introduction to Biomedical Informatics
+BIOE 5319,Introduction to Global Healthcare
+BIOE 5320,Introduction to Electromagnetic Imaging
+BIOE 5323,Introduction to Regenerative Medicine and Stem Cell Engineering
+BIOE 5341,Advanced Biofluid Dynamics
+BTEC 1322,Introduction to Biotechnology
+BTEC 2322,Introduction to Biopython
+BTEC 3200,Biotechnology Research Methods & Applications
+BTEC 3301,Principles of Genomics/Proteomics and Bioinformatics
+BTEC 3302,Molecular Genetics and Biotechnology
+BTEC 3317,Biotechnology Regulatory Environment
+BTEC 3320,Introduction to Quality Assurance and Quality Control in Biotechnology
+BTEC 3321,Current Good Manufacturing Practices in Biotechnology
+BTEC 4100,Principles of Bioinformatics Lab
+BTEC 4101,Principles of Bioprocessing Laboratory
+BTEC 4198,Independent Study in Biotechnology
+BTEC 4249,Biotechnology Capstone Experience I
+BTEC 4300,Principles of Bioinformatics
+BTEC 4301,Principles of Bioprocessing
+BTEC 4319,Microbial Biotechnology
+BTEC 4350,Biotechnology Capstone II
+BTEC 4397,Selected Topics in Biotechnology
+BTEC 4398,Independent Study
+BTIS 3300,Introduction to Homeland Security
+BTIS 3320,US Border Management and Policy
+BTIS 3323,Border Security and Cross-Border Challenges
+BTIS 3330,Fundamentals of Transportation Law and Border Regulations
+BTIS 4300,"Customs, Regulations, and Procedures"
+BTIS 4320,Border Trade Policy
+BTIS 4325,Border Interagency Coordination
+BTIS 4397,"Selected Topics in Border, Trade, Immigration, and Security"
+BUSI B011,Bauer CO-OP Experiential Work
+BUSI 1301,Business Principles
+BUSI 2305,Business Statistics
+BUSI 3300,Introduction to Personal Finance
+BUSI 3301,Connecting College to Business
+BUSI 3302,Connecting Bauer to Business
+BUSI 4198,Independent Study
+BUSI 4305,Business Ethics for Accountants
+BUSI 4320,Commercial Law
+BUSI 4335,Brainstorming to Bankrolling
+BUSI 4336,Consulting to Meet Small Business Needs
+BUSI 4350,Business Law and Ethics
+BUSI 4396,Business Internship
+BUSI 4397,Special Topics in General Business
+BUSI 4398,Independent Study
+BZAN 3310,Introduction to Business Analytics
+BZAN 4397,Selected Topics in Business Analytics
+BCIS 1305,Business Computer Applications
+CHEE 1331,Computing for Engineers
+CHEE 2331,Chemical Processes
+CHEE 2332,Chem Engr Thermodyn I
+CHEE 3300,Materials Science & Engineering I
+CHEE 3321,Analytical Methods for Chemical Engineers
+CHEE 3333,Chemical Engineering Thermodynamics II
+CHEE 3334,Statistics/Numerical Techniques for Chemical Engineers
+CHEE 3363,Fluid Mechanics for Chemical Engineers
+CHEE 3367,Process Modeling and Control
+CHEE 3369,Chemical Engineering Transport Processes
+CHEE 3399,Senior Honors Thesis
+CHEE 3462,Unit Operations
+CHEE 3466,Bio & Physical Chemistry
+CHEE 4197,Selected Topics
+CHEE 4198,Independent Study
+CHEE 4297,Selected Topics
+CHEE 4298,Independent Study
+CHEE 4321,Chemical Engineering Design I
+CHEE 4322,Chemical Engineering Design II
+CHEE 4361,Chemical Engineering Practices
+CHEE 4366,Biomolecular Engr Fundamentals
+CHEE 4367,Chemical Reaction Engineering
+CHEE 4397,Selected Topics
+CHEE 4398,Independent Study
+CHEE 4399,Senior Honors Thesis
+CHEE 4498,Independent Study
+CHEE 5119,Nanotechnology Laboratory
+CHEE 5120,Nanomaterials Engineering Laboratory
+CHEE 5121,Nanofabrication Laboratory
+CHEE 5319,Introduction to Nanotechnology
+CHEE 5320,Introduction to Nanomaterials Engineering
+CHEE 5321,Nanoscale Design & Fabrication
+CHEE 5323,Fundamentals of Tissue Engineering
+CHEE 5350,Advanced Oxidation Processes for Water Treatment
+CHEE 5355,Advanced Biomolecular Engineering
+CHEE 5365,Fundamentals of Catalysis
+CHEE 5367,Advanced Process Control
+CHEE 5368,Chemical Process Economics I
+CHEE 5369,Chemical Process Economics II
+CHEE 5370,Sustainability and Environmental Mitigation
+CHEE 5377,Introduction to Polymer Science
+CHEE 5379,Safety and Reliability
+CHEE 5383,Advanced Unit Operations
+CHEE 5384,Petrochemical Processes
+CHEE 5386,Air Pollution Problems and Control
+CHEE 5388,Catalytic Processes
+CHEE 5390,Energy and the Environment
+CHEE 5393,Cellular and Biological Transport Phenomena
+CHEE 5397,Selected Topics
+CHEM 1105,Foundations of Chemistry Laboratory
+CHEM 1111,Fundamentals of Chm Lab
+CHEM 1112,Fundamentals of Chm Lab
+CHEM 1305,Foundations of Chemistry
+CHEM 1311,Fundamentals of Chemistry
+CHEM 1312,Fundamentals of Chemistry 2
+CHEM 1321,Honors Fundamentals of Chemistry 1
+CHEM 1322,Honors Fundamentals of Chemistry 2
+CHEM 2123,Organic Chemistry Lab I
+CHEM 2125,Organic Chemistry Lab II
+CHEM 2131,Problem Solving in Organic Chemistry I
+CHEM 2132,Problem Solving in Organic Chemistry II
+CHEM 2323,Organic Chemistry I
+CHEM 2325,Organic Chemistry II
+CHEM 3119,Anlytical Chemistry Lab
+CHEM 3133,Inorganic Chemistry Laboratory I
+CHEM 3333,Inorganic Chemistry I
+CHEM 3336,Org Chem Biol Molecules
+CHEM 3369,Analytical Chemistry 1
+CHEM 3396,Senior Research Project
+CHEM 3399,Senior Honors Thesis
+CHEM 4115,Inorganic Chem Laboratory II

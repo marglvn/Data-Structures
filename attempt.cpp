@@ -89,6 +89,27 @@ void coords(vector<vector<string>>& v, vector<location>& l, string i)
 	}
 }
 
+void categorize(vector<vector<string>>& v, string i)
+{
+	unsigned int row, col, size;
+	unsigned int num_of_rows = v.size();
+	string hilo;
+
+	for (row = 0; row < num_of_rows; row++)
+	{
+		size = v[row].size();
+		for (col = 0; col < size; col++)
+		{
+			hilo = v[row][col];
+			if (hilo.substr(0, 4) == i)
+			{
+				cout << v[row][col] << " " << v[row][col + 1];
+			}
+		}
+		cout << endl;
+	}
+}
+
 void displayL(vector<location>& l)
 {
 	if (l.size() == 0)
@@ -110,7 +131,7 @@ int main()
 	fstream file;
 	vector<vector<string>> values;
 	vector<location> locations;
-	string fileName, input;
+	string fileName, input, les;
 
 	cout << "Please enter the input file name: ";
 	getline(cin, fileName);
@@ -120,17 +141,24 @@ int main()
 	if (file.is_open())
 	{
 		intake(values, file);
-		displayV(values);
+		//displayV(values);
 		cout << endl;
 
-		cout << "Please enter what you are searching for: ";
-		getline(cin, input);
+		//cout << "Please enter what you are searching for: ";
+		//getline(cin, input);
 
 		cout << endl;
 
-		coords(values, locations, input);
+		//categorize(values, input);
 
-		displayL(locations);
+		//coords(values, locations, input);
+
+		//displayL(locations);
+
+		cout << "Classes: ";
+		getline(cin, les);
+
+		categorize(values, les);
 	}
 	else
 	{
