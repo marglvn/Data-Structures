@@ -103,10 +103,10 @@ void categorize(vector<vector<string>>& v, string i)
 			hilo = v[row][col];
 			if (hilo.substr(0, 4) == i)
 			{
-				cout << v[row][col] << " " << v[row][col + 1];
+				cout << v[row][col] << " " << v[row][col + 1] << endl;
 			}
 		}
-		cout << endl;
+		//cout << endl;
 	}
 }
 
@@ -147,7 +147,7 @@ int main()
 		//cout << "Please enter what you are searching for: ";
 		//getline(cin, input);
 
-		cout << endl;
+		//cout << endl;
 
 		//categorize(values, input);
 

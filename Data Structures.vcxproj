@@ -19,10 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="attempt.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Values.csv" />
+    <ClCompile Include="twoSum.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>

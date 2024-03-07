@@ -15,13 +15,8 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="attempt.cpp">
+    <ClCompile Include="twoSum.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Values.csv">
-      <Filter>Source Files</Filter>
-    </None>
   </ItemGroup>
 </Project>
