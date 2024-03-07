@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Martin\\source\\repos\\Data-Structures\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{080DCF7C-6ED6-4F6E-BFD5-6AC623C3C91A}|Data Structures.vcxproj|C:\\Users\\Martin\\source\\repos\\Data-Structures\\attempt.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{080DCF7C-6ED6-4F6E-BFD5-6AC623C3C91A}|Data Structures.vcxproj|solutionrelative:attempt.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "attempt.cpp",
+              "DocumentMoniker": "C:\\Users\\Martin\\source\\repos\\Data-Structures\\attempt.cpp",
+              "RelativeDocumentMoniker": "attempt.cpp",
+              "ToolTip": "C:\\Users\\Martin\\source\\repos\\Data-Structures\\attempt.cpp",
+              "RelativeToolTip": "attempt.cpp",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAADkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-06T23:20:50.295Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
