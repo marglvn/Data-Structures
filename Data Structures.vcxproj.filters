@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="twoSum.cpp">
+    <ClCompile Include="mersennePrimes.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
