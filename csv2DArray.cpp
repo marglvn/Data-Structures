@@ -2,6 +2,7 @@
 #include <vector>
 #include <fstream>
 #include <sstream>
+#include <ctime>
 
 using namespace std;
 
@@ -24,28 +25,32 @@ void intake(vector<vector<string>>& v, fstream& f)
 }
 
 template <class T>
-T** transfer(vector<vector<T>>& v, size_t r, size_t c)
+T** transfer(vector<vector<T>>& v)
 {
-	T** temp = new T* [r];
+	size_t row = v.size();
+	T** jagged = new T* [row];
 
-	for (size_t i = 0; i < r; i++)
+	for (size_t i = 0; i < row; i++)
 	{
-		temp[i] = new T[c];
-		for (size_t j = 0; j < c; j++)
+		size_t col = v[i].size();
+		jagged[i] = new T[col];
+		for (size_t j = 0; j < col; j++)
 		{
-			temp[i][j] = v[i][j];
+			jagged[i][j] = v[i][j];
 		}
 	}
 
-	return temp;
+	return jagged;
 }
 
 template <class T>
-void display(T** a, size_t r, size_t c)
+void display(T** a, vector<vector<T>>& v)
 {
-	for (int i = 0; i < r; i++)
+	size_t c, r = v.size();
+	for (size_t i = 0; i < r; i++)
 	{
-		for (int j = 0; j < c; j++)
+		c = v[i].size();
+		for (size_t j = 0; j < c; j++)
 		{
 			cout << a[i][j] << " ";
 		}
@@ -53,8 +58,29 @@ void display(T** a, size_t r, size_t c)
 	}
 }
 
+template <class T>
+void displayVector(vector<vector<T>>& v)
+{
+	unsigned int row, col, size;
+	unsigned int numRows = v.size();
+
+	for (row = 0; row < numRows; row++)
+	{
+		size = v[row].size();
+		for (col = 0; col < size; col++)
+		{
+			cout << v[row][col] << " ";
+		}
+		cout << endl;
+	}
+}
+
 int main()
 {
+	clock_t begin0, begin1, end0, end1;
+	unsigned int iteration, num_of_iterations = 50;
+	unsigned int itr, num_of_itrs = 50;
+	double elapsed_seconds0, elapsed_seconds1;
 	vector<vector<string>> values;
 	
 	string fileName;
@@ -75,10 +101,37 @@ int main()
 	}
 	cout << endl;
 
-	size_t row = values.size();
-	size_t col = values[0].size();
+	string** array = transfer(values);
 
-	string** array = transfer(values, row, col);
+	begin0 = clock();
+	for (iteration = 0; iteration < num_of_iterations; iteration++)
+	{
+		for (itr = 0; itr < num_of_itrs; itr++)
+		{
+			display(array, values);
+		}
+	}
+	end0 = clock();
 
-	display(array, row, col);
+	//elapsed_seconds0 = double(end - begin) / CLOCKS_PER_SEC;
+
+	//cout << "Time elapsed: " << elapsed_seconds0 << " seconds" << endl;
+
+/*************************************************************************************************/
+
+	begin1 = clock();
+	for (iteration = 0; iteration < num_of_iterations; iteration++)
+	{
+		for (itr = 0; itr < num_of_itrs; itr++)
+		{
+			displayVector(values);
+		}
+	}
+	end1 = clock();
+
+	elapsed_seconds0 = double(end0 - begin0) / CLOCKS_PER_SEC;
+	elapsed_seconds1 = double(end1 - begin1) / CLOCKS_PER_SEC;
+
+	cout << "Array display time elapsed: " << elapsed_seconds0 << " seconds" << endl;
+	cout << "Vector display time elapsed: " << elapsed_seconds1 << " seconds" << endl;
 }
