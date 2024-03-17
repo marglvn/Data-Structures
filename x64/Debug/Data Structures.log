@@ -1,1 +1,9 @@
-﻿  Data Structures.vcxproj -> C:\Users\Martin\source\repos\Data Structures\x64\Debug\Data Structures.exe
+﻿  csv2DArray.cpp
+C:\Users\Martin\source\repos\Data Structures\csv2DArray.cpp(65,23): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  C:\Users\Martin\source\repos\Data Structures\csv2DArray.cpp(65,23):
+  the template instantiation context (the oldest one first) is
+  	C:\Users\Martin\source\repos\Data Structures\csv2DArray.cpp(127,4):
+  	see reference to function template instantiation 'void displayVector<std::string>(std::vector<std::vector<std::string,std::allocator<std::string>>,std::allocator<std::vector<std::string,std::allocator<std::string>>>> &)' being compiled
+  
+C:\Users\Martin\source\repos\Data Structures\csv2DArray.cpp(69,21): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+  Data Structures.vcxproj -> C:\Users\Martin\source\repos\Data Structures\x64\Debug\Data Structures.exe

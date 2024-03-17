@@ -55,11 +55,11 @@ AAS 3301,Hip Hop History and Culture
 AAS 3307,Africana Spiritual Transformation
 AAS 3310,Afr Amer Exper Through Theatre
 AAS 3315,African American Art
-AAS 3325,"African American Studies Theory Methods and Research"
+AAS 3325,"African American Studies Theory, Methods and Research"
 AAS 3330,African American Oral History
 AAS 3340,African Amer Sociolinguistics
 AAS 3348,African Americans and the Law
-AAS 3349,"African Americans Politics and Legal Studies"
+AAS 3349,"African Americans, Politics and Legal Studies"
 AAS 3350,Slavery and Race Relations
 AAS 3354,African Nationalist Thought and Ethics in the US
 AAS 3356,Africana Thought & Philosophy
@@ -112,7 +112,7 @@ ANTH 3304,Demographic Anthropology
 ANTH 3305,Psych Anthropology
 ANTH 3306,Sex & Culture
 ANTH 3312,Mex-Amer Culture
-ANTH 3313,"Brown Girls Brown Stories: Black Female Protagonists in Novels & Films"
+ANTH 3313,"Brown Girls, Brown Stories: Black Female Protagonists in Novels & Films"
 ANTH 3316,Society and Culture of India
 ANTH 3320,Ritual and Performance
 ANTH 3324,People & Culture of Latin Amer
@@ -124,11 +124,11 @@ ANTH 3341,Cultural Ecology
 ANTH 3342,Food and Culture
 ANTH 3347,Anthropology of Women
 ANTH 3348,Anthropology of Religion
-ANTH 3350,"Women Health and Culture"
+ANTH 3350,"Women, Health and Culture"
 ANTH 3351,Politics of Healthcare and the Latino Community
 ANTH 3360,Human Variation
 ANTH 3361,Human Origins
-ANTH 3362,"Monkeys Apes and Humans"
+ANTH 3362,"Monkeys, Apes, and Humans"
 ANTH 3364,Disease in Antiquity
 ANTH 3365,Principles and Practices of Global Engagement
 ANTH 3375,North American Archaeol
@@ -165,7 +165,7 @@ ANTH 4351,Human Osteology
 ANTH 4354,Social Theory from the Global South
 ANTH 4360,Citizenship and Political Culture
 ANTH 4361,Migration / Borders / Citizenship
-ANTH 4363,Race Racialization and the Politics of Culture
+ANTH 4363,"Race, Racialization and the Politics of Culture"
 ANTH 4364,Anthropology of the Anthropocene
 ANTH 4372,Maya Archaeology
 ANTH 4373,Aztec Archaeology
@@ -459,10 +459,10 @@ ARAB 2312,Intermediate Arabic II
 ARAB 3301,Adv Modern Standard Arabic I
 ARAB 3302,Advanced Modern Standard Arabic II
 ARAB 3312,Introduction to Arabic Literature in Translation
-ARAB 3313,Qur'an as Literature
+ARAB 3313,Qur’an as Literature
 ARAB 3314,Women and Gender in Arabic Literature
 ARAB 3340,Modern & Rationalism in Islamic Tradition
-ARAB 3377,Energy Society and the Middle East
+ARAB 3377,"Energy, Society and the Middle East"
 ARAB 3397,Selected Topics Arab Studies
 ARCH 1198,Special Problems
 ARCH 1210,Introduction to Design Media
@@ -538,7 +538,7 @@ ARCH 4354,Ideas and Buildings
 ARCH 4355,Houston Architecture
 ARCH 4367,Case Studies:Sustainable Arch
 ARCH 4373,Urban Environments
-ARCH 4375,Capitalism Arch and the City
+ARCH 4375,"Capitalism, Arch and the City"
 ARCH 4376,Community Design Workshop
 ARCH 4390,Landscape Architecture
 ARCH 4391,Techniques for Preservation of 20th Century Architecture
@@ -559,7 +559,7 @@ ARTS 1317,Drawing II
 ARTS 1372,Fundamentals of Video Art
 ARTS 1383,Introduction to New Media
 ARTS 1397,Sel Topic Fund Studio Art
-ARTS 2311,Color Materials and Methods
+ARTS 2311,"Color, Materials and Methods"
 ARTS 2316,Fundamentals of Painting
 ARTS 2326,Fundamentals of Sculpture
 ARTS 2333,Fundamentals of Printmaking
@@ -678,8 +678,8 @@ ARTH 3332,20th Century Design
 ARTH 3333,Issues in Contemporary Design
 ARTH 3334,History of Graphic Design
 ARTH 3335,Surrealism and Its Legacies
-ARTH 3336,"Contemporary Art 1960s-1980s: The Postmodern Turn"
-ARTH 3337,"Contemporary Art 1980s-Present: Democracy, Identity, Globalization"
+ARTH 3336,"Contemporary Art, 1960s-1980s: The Postmodern Turn"
+ARTH 3337,"Contemporary Art, 1980s-Present: Democracy, Identity, Globalization"
 ARTH 3376,Representations of Gender
 ARTH 3378,Global History of Photography
 ARTH 3379,History of 20th and 21th Century Photography
@@ -691,7 +691,7 @@ ARTH 3395,Selected Topics in Critical Theory and Criticism
 ARTH 3396,Selected Topics in Critical Studies in Film and Video
 ARTH 3399,Senior Honors Thesis
 ARTH 4310,Human Body in Non-Western Art
-ARTH 4311,"Medieval Art Artist Patrons"
+ARTH 4311,"Medieval Arts,Artist,Patrons"
 ARTH 4314,Medieval Illuminated Manuscripts
 ARTH 4315,Reading Medieval Art
 ARTH 4319,Readings in 19Th Century Photo
@@ -998,3 +998,1003 @@ CHEM 3369,Analytical Chemistry 1
 CHEM 3396,Senior Research Project
 CHEM 3399,Senior Honors Thesis
 CHEM 4115,Inorganic Chem Laboratory II
+CHEM 4151,Chemistry Internship
+CHEM 4229,Instrmntl Mthd-Anly Lab
+CHEM 4270,Physical Chemistry Lab I
+CHEM 4272,Physical Chemistry Laboratory II
+CHEM 4330,Polymer Chemistry
+CHEM 4336,Fundamentl Biochemistry
+CHEM 4340,Research Methods
+CHEM 4364,Advanced Organic Chem
+CHEM 4365,Inorganic Chemistry II
+CHEM 4369,Analytical Chemistry 2
+CHEM 4370,Physical Chemistry I
+CHEM 4372,Physical Chemistry II
+CHEM 4373,Survey of Physical Chemistry
+CHEM 4396,Research Project
+CHEM 4397,Selected Topics in Chemistry
+CHEM 4398,Independent Study
+CHEM 4399,Senior Honors Thesis
+CHIN 1198,Independent Study
+CHIN 1209,Chinese Calligraphy
+CHIN 1298,Independent Study
+CHIN 1309,Chinese Writing and Calligraphy
+CHIN 1398,Independent Study
+CHIN 1501,Elementary Chinese I
+CHIN 1502,Elementary Chinese II
+CHIN 2198,Special Problems
+CHIN 2207,Conversational Chinese I
+CHIN 2208,Conversational Chinese II
+CHIN 2298,Independent Study
+CHIN 2311,Intermediate Chinese I
+CHIN 2312,Intermediate Chinese II
+CHIN 2398,Independent Study
+CHIN 3198,Special Problems
+CHIN 3298,Independent Study
+CHIN 3301,Advanced Mandarin Chinese I
+CHIN 3302,Advanced Mandarin Chinese II
+CHIN 3303,Readings in Modern Chinese
+CHIN 3304,Business Chinese
+CHIN 3305,Survey of Chinese Literature
+CHIN 3342,Tales of East Asian Cities
+CHIN 3343,Chinese Popular Culture
+CHIN 3344,Modern and Contemporary Global Chinese Literature
+CHIN 3346,Sociolinguistic Perspectives on Contemporary China
+CHIN 3347,"Chinese Language, Pragmatics, and Communication"
+CHIN 3350,Chinese Culture Through Films
+CHIN 3352,Chin Cul & Soc Thru Mod Lit
+CHIN 3354,Chinese Culture and Language
+CHIN 3359,Chinese Culture through History
+CHIN 3360,A Look Into Modern China
+CHIN 3396,Selected Topics
+CHIN 3398,Independent Study
+CHIN 4301,Public Speaking in Chinese
+CHIN 4302,Integrated Chinese
+CHIN 4364,Issues in Chinese Language and Linguistics
+CHIN 4371,Principles of Teaching Chinese
+CHIN 4372,Studies of Chinese Language Acquisition
+CHIN 4396,Selected Topics
+CHIN 4398,Independent Study
+CIVE 2332,Mechanics of Solids
+CIVE 2397,Selected Topics
+CIVE 3331,Environmental Engineering
+CIVE 3332,Engineering Materials
+CIVE 3337,Structural Analysis
+CIVE 3339,Geotechnical Engineering
+CIVE 3380,Fundamentals of Plane Surveying
+CIVE 3397,Selected Topics
+CIVE 3434,Fluid Mechanics and Hydraulic Engineering
+CIVE 4311,Professional Practice in Civil Engineering
+CIVE 4312,Civil Engineering Capstone Design Project
+CIVE 4332,Hydrology
+CIVE 4333,Water and Wastewater Treatment
+CIVE 4337,Transportation Engineering
+CIVE 4363,Concrete Design
+CIVE 4364,Structural Steel Design
+CIVE 4369,Foundation Engineering
+CIVE 4381,Satellite-based Geomatics and Geosensing
+CIVE 4397,Selected Topics
+CIVE 4398,Independent Study
+CIVE 5362,Water Quality Engineering
+CIVE 5388,Hazardous Waste Processes
+CIVE 5397,Selected Topics
+CLAS 2366,Who Owns Antiquity? The Battle over our Cultural Heritage
+CLAS 3307,Greek & Roman Myths of Heroes
+CLAS 3308,Myths & Cult of the Greek Gods
+CLAS 3341,The Roman Republic
+CLAS 3345,Myth&Performance in Greek Trag
+CLAS 3350,Law and Society in Ancient Rome
+CLAS 3366,Greek Art and Archaeology: In Search of the Trojan War
+CLAS 3371,Ancient Comedy & Its Influence
+CLAS 3373,Ancient Satire & Its Influence
+CLAS 3374,Women in the Ancient World
+CLAS 3375,"Roman, Jew, and Christian"
+CLAS 3380,Epic Masculinity
+CLAS 3381,From Homer To Hollywood
+CLAS 3397,Sel Topics Gr & Rom Civ
+CLAS 3398,Independent Study
+CLAS 3399,Senior Honors Thesis
+CLAS 4305,"Fifth-Century Athens: Readings in Intellectual, Literary, and Political History"
+CLAS 4350,Age of Augustus
+CLAS 4353,Classics and Modernity:The Uses of Antiquity in Modern & Postmodern Contexts
+CLAS 4370,Comparative Epic
+CLAS 4374,Sex and Gender in Antiquity
+CLAS 4375,Gender and Race in Greek Myths
+CLAS 4380,Greek Classics in Translation
+CLAS 4381,Latin Classics in Translation
+CLAS 4398,Independent Study
+CLAS 4399,Senior Honors Thesis
+COMM 1302,Introduction To Communication Theory
+COMM 1303,Writing for Communicators
+COMM 1307,Media and Society
+COMM 2300,Communication Research Methods
+COMM 2311,Writing for Print and Digital Media
+COMM 2320,Fundamentals of Media Production
+COMM 2322,Television Production I
+COMM 2326,Introduction to Sports Broadcasting
+COMM 2327,Introduction to Screen Writing
+COMM 2328,Broadcast Writing Basics
+COMM 2331,Relational Communication
+COMM 2356,Business & Professional Communication
+COMM 2370,Introduction to Motion Pictures
+COMM 2371,"Media, Sports and Culture"
+COMM 2383,Food As Communication
+COMM 3300,Health Communication
+COMM 3301,Doctor-Patient Interaction
+COMM 3302,E-Health and Telemedicine
+COMM 3303,Health Literacy
+COMM 3304,Multicultural Health Communication
+COMM 3306,End of Life Communication
+COMM 3311,Editing for Print and Digital Media
+COMM 3312,Global Journalism
+COMM 3313,Data-Driven Storytelling & Visualization
+COMM 3314,Intermediate Writing and Reporting
+COMM 3315,News and Social Media
+COMM 3316,Electronic News
+COMM 3317,Multimedia Journalism
+COMM 3318,Multimedia Storytelling
+COMM 3319,Preproduction Management
+COMM 3320,Audio Production
+COMM 3321,Single Camera Studio Production
+COMM 3322,Latino Journalism
+COMM 3324,Photojournalism
+COMM 3325,Sports Journalism
+COMM 3326,Graphics Applications
+COMM 3328,Introduction to Sports Production
+COMM 3329,Media Performance
+COMM 3331,Communication in the Family
+COMM 3332,Effective Meeting Management
+COMM 3340,Health Campaigns
+COMM 3349,Nonverbal Communication
+COMM 3350,Media Management
+COMM 3352,Small Group Process
+COMM 3353,Information & Communication Technologies I
+COMM 3358,Leadership Communication & Organizations
+COMM 3359,Sports Media & Communication
+COMM 3360,Principles of Strategic Communication
+COMM 3361,Advertising Copywriting
+COMM 3363,Global & Multicultural Advertising
+COMM 3367,Student-Run Agency Experience
+COMM 3368,Principles of Public Relations
+COMM 3369,Strategic Communication Writing
+COMM 3370,History of Cinema
+COMM 3372,Gender and Media
+COMM 3373,Television: History and Culture
+COMM 3374,Strategic Social Media
+COMM 3376,Media Effects
+COMM 3377,Strategic Public Relations Planning
+COMM 3380,Electronic Field Production
+COMM 3381,Short Film Practicum
+COMM 3382,Television II and Sports Production
+COMM 3383,Non-linear Editing
+COMM 3384,The Media Industry
+COMM 3385,Communication Practicum Abroad
+COMM 3387,Valenti Production House
+COMM 3388,Digital Media Entrepreneurship
+COMM 3399,Senior Honors Thesis
+COMM 4198,Independent Study
+COMM 4301,Introduction to Latinx Communication Studies
+COMM 4302,Latinx Media Studies
+COMM 4303,Communication Law and Ethics
+COMM 4310,Opinion Writing & Blogging
+COMM 4312,Feature Writing for Print and Digital Media
+COMM 4313,Investigative Reporting
+COMM 4314,Social Issues in Journalism
+COMM 4316,Advanced Electronic News
+COMM 4320,Media Production Workshop I
+COMM 4322,Television Producing and Directing I
+COMM 4324,Advanced Audio Production
+COMM 4328,Broadcast and Film Dramatic Writing
+COMM 4331,Persuasion
+COMM 4335,Crisis Communication
+COMM 4337,Television and the Familiy
+COMM 4338,Family in Popular Culture
+COMM 4354,Organizational Crisis Communication
+COMM 4355,Organizational Communication
+COMM 4357,Intercultural Communication
+COMM 4358,Bargaining and Negotiation
+COMM 4360,Media Planning & Placement
+COMM 4361,Advertising Campaign Competition
+COMM 4363,Integrated Communication Campaigns
+COMM 4365,Digital Public Relations and Advertising
+COMM 4366,Advertising Account Planning
+COMM 4367,Issues Management
+COMM 4368,Public Relations Campaigns
+COMM 4369,Advertising Portfolio
+COMM 4370,Social Aspects of Film
+COMM 4371,American Cinema: The Directors
+COMM 4372,"Media, Power, and Society"
+COMM 4373,Intercultural Public Relations
+COMM 4374,Strategic Communication Research Projects
+COMM 4375,Propaganda & Mass Comm
+COMM 4377,Understanding Publics
+COMM 4378,The Social Impact of New Information Technology
+COMM 4380,Live Sports Production
+COMM 4381,Digital Cinematography
+COMM 4382,Narrative Non-Linear Editing
+COMM 4383,Documentary Filmmaking
+COMM 4384,Strategic Communication Applications
+COMM 4385,Color Grading
+COMM 4386,"Reporting on Immigration, Hispanics and Data"
+COMM 4387,Media and Political Campaigns in the Digital Age
+COMM 4388,"Media, Hispanics and Development"
+COMM 4389,Media for Social Justice: Digital Media & Activism in Latin America & Houston
+COMM 4390,Film Genres
+COMM 4392,Professional Internship for Credit
+COMM 4397,Selected Topics Communication
+COMM 4398,Independent Study
+COMM 4399,Senior Honors Thesis
+SPCH 1318,Interpersonal Communication
+COMD 1333,Introduction to Communication Sciences and Disorders
+COMD 2338,Phonetics
+COMD 2339,Language Development
+COMD 2376,Anatomy for Communication
+COMD 3301,History and Culture of American Deaf Community
+COMD 3321,Multicultural Considerations in Communication Disorders
+COMD 3322,Code-Switching and Linguistic Justice
+COMD 3371,Speech Development and Disorders in Children
+COMD 3381,Audiology
+COMD 3383,Language Disorders in Children
+COMD 3385,Speech Science
+COMD 3396,Selected Topics in Communication Sciences and Disorders
+COMD 3399,Senior Honors Thesis in Communication Disorders
+COMD 4198,Independent Study in Communication Sciences and Disorders
+COMD 4333,Neuroscience for Communication Disorders
+COMD 4382,Aural Rehabilitation
+COMD 4398,Independent Study
+COMD 4399,Senior Honors Thesis in Communication Disorders
+COMD 4489,Clinical Procedures
+COMD 5341,Competencies and Strategies for the SLPA I
+COMD 5342,Competencies and Strategies for the SLPA II
+COMD 5345,Speech and Language Disorders in Children for the SLPA
+COMD 5346,Speech and Language Disorders in Adults for the SLPA
+COMD 5441,SLPA Externship I
+CCS 2350 ,Perspectives Cultural Studies
+CCS 2394 ,Selected Topics in Comparative Cultural Studies
+CCS 3350 ,Brazilian Cultures and Their Histories
+CCS 4394 ,Selected Topics in Comparative Cultural Studies
+CCS 4398 ,Independent Study in Comparative Cultural Studies
+CEA 3201 ,Computer Programming for Engineers
+CEA 3302 ,Fundamentals of Software Engineering
+CEA 3311 ,Operating Systems for Engineers
+CEA 3312 ,Fundamentals of Computer Architecture
+CEA 3323 ,Data Structures and Algorithms
+CEA 3337 ,Digital Signals and Systems
+CEA 3338 ,Microprocessor Systems
+CEA 3421 ,Introduction to Control Systems
+CEA 4321 ,Database Principles and Applications
+CEA 4335 ,Capstone Design I
+CEA 4336 ,Capstone Design II
+CEA 4339 ,Engineering Applications of Graph Theory
+CEA 4341 ,Pattern Recognition and Machine Learning
+CEA 4342 ,Robotics and Automation
+CEA 4355 ,Engineering Data Analytics
+CEA 4422 ,Communications and Networking
+CEA 4424 ,Embedded Computing and Internet of Things
+CEA 4444 ,Introduction to Cybersecurity
+CIS 1300 ,Problem Solving Using Computers
+CIS 1332 ,Introduction to Information Technology
+CIS 2334 ,Information Systems Applications
+CIS 2336 ,Web Application Development
+CIS 2337 ,Fundamentals of Information Security
+CIS 2348 ,Information Systems Application Development
+CIS 3320 ,Information Visualization
+CIS 3330 ,Information Systems in Organizations
+CIS 3337 ,Secure Application Design
+CIS 3343 ,Information Systems Analysis & Design
+CIS 3347 ,Information Systems Infrastructure and Networking
+CIS 3351 ,Intrusion Detection and Incident Response
+CIS 3357 ,Cloud Computing Infrastructure
+CIS 3367 ,Cloud Computing Architecture and Implementation
+CIS 3368 ,Advanced Information Systems Development
+CIS 4320 ,Decision Informatics
+CIS 4338 ,Advanced Database Concepts
+CIS 4339 ,Enterprise Applications Development
+CIS 4355 ,Information Systems Operations
+CIS 4357 ,Digital Forensics
+CIS 4365 ,Database Management
+CIS 4367 ,Advanced Digital Forensics
+CIS 4375 ,Project Management and Practice
+CIS 4397 ,Selected Topics in Computer Information Systems
+CIS 4398 ,Independent Study
+COSC 1300,Introduction to Computing
+COSC 1304,C Programming
+COSC 1305,C++ Programming
+COSC 1320,Object Oriented Programming
+COSC 1336,Computer Science and Programming
+COSC 1410,Introductn Computer Science I
+COSC 1437,Introduction to Programming
+COSC 2305,Computing Structures
+COSC 2306,Data Programming
+COSC 2320,Data Structures
+COSC 2410,Computer Organization and Programming
+COSC 2425,Computer Organization and Architecture
+COSC 2436,Programming and Data Structures
+COSC 3320,Algorithms and Data Structures
+COSC 3330,Computer Architecture
+COSC 3337,Data Science I
+COSC 3340,Introduction to Automata and Computability
+COSC 3360,Fundamentals of Operating Systems
+COSC 3371,Cybersecurity
+COSC 3380,Database Systems
+COSC 3396,Senior Research Project
+COSC 3399,Senior Honors Thesis
+COSC 4151,Computer Science Internship
+COSC 4198,Independent Study
+COSC 4298,Independent Study
+COSC 4311,Computer Scientists and Society
+COSC 4315,Programming Languages and Paradigms
+COSC 4321,Immersive Technology and Spatial Computing
+COSC 4324,Entrepreneurship for Computer Science
+COSC 4331,Real-Time Systems and Embedded Programming
+COSC 4332,Medical Robotics & Image Guided Interventions
+COSC 4337,Data Science II
+COSC 4348,Introduction to Game Art and Animation
+COSC 4349,Intermediate Game Art and Animation
+COSC 4351,Fundamentals of Software Engineering
+COSC 4353,Software Design
+COSC 4354,Software Development Practices
+COSC 4355,Introduction to Ubiquitous Computing
+COSC 4358,Introduction to Interactive Game Development
+COSC 4359,Intermediate Interactive Game Development
+COSC 4364,Numerical Methods
+COSC 4368,Fundamentals of Artificial Intelligence
+COSC 4370,Interactive Computer Graphics
+COSC 4371,Security Analytics
+COSC 4372,Fundamentals of Medical Imaging
+COSC 4377,Introduction To Computer Networks
+COSC 4390,Internet Computing
+COSC 4393,Digital Image Processing
+COSC 4394,Physical Computing for Image Analytics
+COSC 4396,Senior Research Project
+COSC 4397,Sel Top-Computer Science
+COSC 4398,Independent Study
+COSC 4399,Senior Honors Thesis
+COSC 4498,Independent Study
+CNE 2211 ,Construction Engineering Fundamentals
+CNE 3301 ,Construction Safety Engineering
+CNE 3310 ,Construction Engineering Project Management
+CNE 3311 ,Construction Engineering Methods and Cost Estimating
+CNE 3322 ,Legal Aspects of Construction Engineering
+CNE 3333 ,Building Information Modeling
+CNE 4312 ,Construction Engineering Senior Capstone Design
+CNE 4321 ,Construction Engineering Estimating
+CNE 4322 ,Construction Engineering Best Practices
+CNE 4323 ,Health Care Infrastructure Design and Construction
+CNE 4325 ,Utility System Construction
+CNE 4326 ,Smart and Sustainable Urban Infrastructure
+CNST 1301,Construction Materials and Methods
+CNST 1315,Project Drawings & Graphics
+CNST 1325,Process and Industrial Construction
+CNST 1330,Graphics I
+CNST 1361,Construction Management I
+CNST 2321,Mechanical and Electrical Systems
+CNST 2325,Process and Industrial Subsystems
+CNST 2341,Construction Documents
+CNST 2345,Contract Documents for Capital Projects
+CNST 2351,Construction Estimating I
+CNST 2360,Effective Communication in Construction
+CNST 3155,Construction Materials and Testing
+CNST 3185,Construction Experience
+CNST 3205,Construction Safety Management
+CNST 3210,Safety for Industrial Projects
+CNST 3265,Construction Layout and Site Development
+CNST 3301,Construction Equipment and Methods
+CNST 3331,Construction Planning and Scheduling
+CNST 3351,Construction Estimating II
+CNST 3355,Strength of Construction Materials
+CNST 3365,Cost Estimating Capital Projects
+CNST 3372,Soil Mechanics and Foundations
+CNST 4198,Special Problems
+CNST 4220,Comprehensive Construction Management and Emerging Practices
+CNST 4302,Construction Law and Ethics
+CNST 4311,Structural Steel and Timber Construction
+CNST 4315,Steel Construction
+CNST 4331,Construction Management II
+CNST 4335,Capital Projects Development
+CNST 4341,Project Controls
+CNST 4345,Reinforced Concrete Structures
+CNST 4381,Reinforced Concrete and Building Codes
+CNST 4385,Field Operations for Capital Projects
+COOP 0011,COOP Education Work Period I
+COOP 0012,COOP Education Work Period II
+COOP 0013,COOP Education Work Period III
+COOP 0014,COOP Education Work Period IV
+COOP 0015,COOP Education Work Period V
+COOP 0016,COOP Education Work Period VI
+COOP 0017,COOP Education Work Period VII
+CUST 4397,Sel Tops- Cultural Studies II
+CUIN 1101,Step 1 - Teaching Science and Mathematics
+CUIN 1102,Step 2 - Teaching Science and Mathematics
+CUIN 1103,Development of Educator Dispositions
+CUIN 1350,Mathematics for Teachers 1
+CUIN 2300,Introduction to STEM Teaching
+CUIN 3111,Educational Technology for Elementary Teachers
+CUIN 3121,Educational Technology for Secondary Teachers
+CUIN 3302,Social Education
+CUIN 3310,Foundations of Bilingual Education
+CUIN 3311,Methods and Techniques in Bilingual Education
+CUIN 3312,Educational Technology
+CUIN 3313,Learning and Development Technologies
+CUIN 3316,Prekindergarten Curriculum and Instruction
+CUIN 3317,Kindergarten and Elementary School Curriculum and Instruction
+CUIN 3321,Introduction to Teaching Middle Grades
+CUIN 3333,"Differentiating Curriculum, Instruction, & Assessment for Diverse Learners"
+CUIN 3345,Writing and Grammar for Teaching English
+CUIN 3346,Teaching the Writing Process
+CUIN 3347,Reading in the Content Area
+CUIN 3350,Knowing and Learning Science and Math
+CUIN 3351,Classroom Interactions in Science and Mathematics
+CUIN 3352,Perspectives Math and Science
+CUIN 4101,Content for Teaching
+CUIN 4303,Second Language Acquisition
+CUIN 4304,Language Arts/Reading Methods in Spanish
+CUIN 4315,Assessment of Children
+CUIN 4325,Teaching Science in Grades 4-8 I
+CUIN 4326,Teaching Science in Grades 4-8 II
+CUIN 4331,Adolescent Literature
+CUIN 4332,Literacy Assessment for Reading and Writing
+CUIN 4336,Popular Culture in Education
+CUIN 4337,Teaching Social Studies in Middle Grades for Generalists
+CUIN 4341,Teaching Mathematics Problem Solving
+CUIN 4344,Teaching Mathematics in Grades 4-8
+CUIN 4346,Teaching Secondary Mathematics with Technology
+CUIN 4347,Teaching Mathematics in Grades 7-12
+CUIN 4348,Teaching Mathematics in Middle Grades for Generalists
+CUIN 4349,Teaching Geometry and Algebra Concepts
+CUIN 4350,Multiple Teaching Strategies for Math and Science
+CUIN 4351,Developing Proportional Reasoning
+CUIN 4361,Second Language Methodology
+CUIN 4375,Classroom Management
+CUIN 4397,Selected Topics in C&I
+CUIN 4398,Independent Study
+DANC 1103,Freshman Seminar in Somatics
+DANC 1107,Beginning Hip Hop Dance
+DANC 1112,Introduction to Pilates Mat
+DANC 1202,Ballet I Part II
+DANC 1241,Beginning Ballet
+DANC 1245,Modern Dance I Part I
+DANC 1246,Modern Dance I Part II
+DANC 1247,Jazz I
+DANC 1300,Dance as a Fine Art
+DANC 1301,Dance Improvisation
+DANC 1309,Dance Production
+DANC 2121,Traditional West African Dance
+DANC 2202,Sophomore Dance Technique
+DANC 2203,Ballet II Part I
+DANC 2204,Ballet II Part II
+DANC 2213,Modern II Part I
+DANC 2214,Modern II Part II
+DANC 2303,Introduction to Dance
+DANC 2304,Dance Kinesiology
+DANC 2305,Dance Composition I
+DANC 2306,Dance Composition II
+DANC 2308,Design Elements for Dance
+DANC 2309,Dance Production II
+DANC 2323,Dance in Film and Cinematic Media
+DANC 3103,Junior Seminar in Somatics
+DANC 3107,Intermediate Hip Hop Dance
+DANC 3203,Contact Improvisation
+DANC 3302,Intermediate Advanced Technique and Theory
+DANC 3306,Dance Composition III
+DANC 3310,Dance History I
+DANC 3311,Dance History II
+DANC 3312,Stott Pilates Intensive Mat Certification
+DANC 3314,Technology in Dance
+DANC 4110,Dance Ensemble
+DANC 4197,Selected Topics
+DANC 4198,Independent Study
+DANC 4204,Jazz Dance III
+DANC 4298,Independent Study
+DANC 4302,Advanced Technique and Theory
+DANC 4305,Senior Project with Career Management
+DANC 4307,Teaching Dance in Education
+DANC 4308,Teaching Dance Skills
+DANC 4330,Career Skills for the Practicing Dance Artist
+DANC 4331,PR and Marketing Entrepreneurship for the Arts
+DANC 4397,Selected Topics
+DANC 4398,Independent Study
+DIGM 1300,Introduction to Digital Media
+DIGM 1350,Graphics for Digital Media
+DIGM 1376,User Experience (UX) Principles
+DIGM 2325,Information Technology Applications for Digital Media
+DIGM 2351,Web Design
+DIGM 2352,Digital Photography
+DIGM 2353,Page Layout and Design
+DIGM 2357,Content Strategy & Development
+DIGM 2376,User Experience (UX) Principles 2
+DIGM 3152,Graphic Communication Output Lab
+DIGM 3252,Graphic Communication Output
+DIGM 3326,Big Data Analytics for Digital Media
+DIGM 3350,Graphic Communication Production Processes
+DIGM 3351,Individualized Communication Processes
+DIGM 3353,Visual Communications Technology
+DIGM 3354,Principles of Visual Production
+DIGM 3355,Package Technology
+DIGM 3356,ePublishing
+DIGM 3357,Social Media Applications and Analytics
+DIGM 3358,Augmented and Virtual Reality
+DIGM 3370,Two Dimensional Computer Generated Imagery Animation
+DIGM 3374,Video Production 2
+DIGM 3399,Senior Honors Thesis
+DIGM 4350,Venue Transmedia
+DIGM 4351,Portfolio Development for Digital Media
+DIGM 4371,3D Modeling and Animation
+DIGM 4372,Digital Media Production Management
+DIGM 4373,Photographic Tone and Color Reproduction
+DIGM 4375,Package Design
+DIGM 4376,Integrated Media
+DIGM 4378,Senior Project
+DIGM 4379,Transmedia Marketing
+DIGM 4381,Mobile Application Design
+DIGM 4382,Simulation and Gaming
+DIGM 4390,Current Issues in Digital Media
+DIGM 4396,Internship in Digital Media
+DIGM 4397,Selected Topics in Digital Media
+DIGM 4398,Independent Study
+DIGM 4399,Senior Thesis
+ECON 2301,Principles of Macroeconomics
+ECON 2302,Principles of Microeconomics
+ECON 3320,Introduction to Economic Data Analysis
+ECON 3332,Intermediate Microeconomics
+ECON 3334,Intermediate Macroeconomics
+ECON 3340,Comparative Economic Systems
+ECON 3341,Russian and Chinese Transformation
+ECON 3342,Global Issues in Economic Development
+ECON 3344,History of Economic Doctrine
+ECON 3347,Capital Market Economics
+ECON 3348,"Food, Population, Agriculture and the Environment"
+ECON 3350,American Economic Growth
+ECON 3351,The Economics of Development
+ECON 3357,Data Management with Economic Applications
+ECON 3361,Economics of Globalization
+ECON 3362,Mathematics for Economics
+ECON 3363,Environmental Economics
+ECON 3365,Labor Economics
+ECON 3368,Economics of Health Care
+ECON 3370,Introduction To Econometrics
+ECON 3371,Economics of Money & Banking
+ECON 3377,Economics of Public Finance
+ECON 3385,Economics of Energy
+ECON 3389,Topics in Contemporary Economics I
+ECON 3399,Senior Honors Thesis
+ECON 4198,Independent Study
+ECON 4298,Independent Study
+ECON 4321,Economic Analysis of U.S. Legal System
+ECON 4331,Economics of Gender
+ECON 4335,Economic Growth Theory
+ECON 4338,Regression Causal Modeling and Social Science Data Mining
+ECON 4345,Social Economics
+ECON 4349,Introduction To Game Theory
+ECON 4360,Intro-Mathematical Economics
+ECON 4363,Political Economy
+ECON 4368,International Monetary Economics
+ECON 4370,International Trade
+ECON 4372,Economics of Education
+ECON 4373,Economics of Financial Crises
+ECON 4374,Behavioral Economics
+ECON 4376,Industrial Organization
+ECON 4377,Urban Economics
+ECON 4378,Chinese Economy
+ECON 4385,Monetary Policy
+ECON 4389,Topics in Contemporary Economics II
+ECON 4390,Economics Internship
+ECON 4395,Selected Topics in Applied Econometrics
+ECON 4398,Independent Study
+ECON 4399,Senior Honors Thesis
+EDUC 1301,Introduction to the Teaching Profession
+EDUC 2301,Introduction to Special Populations
+EDUC 3101,Practicum for Preservice Teachers
+EDUC 4311,Student Teaching and Integrated Technology: Elementary
+EDUC 4312,Student Teaching and Integrated Technology: Elementary
+EDUC 4313,Student Teaching: Early Childhood Education
+EDUC 4314,Student Teaching: Secondary
+EDUC 4315,Student Teaching: Secondary
+EDUC 4316,Student Teaching: Art - Elementary
+EDUC 4317,Student Teaching: Art - Secondary
+EDUC 4318,Student Teaching: Music - Elementary
+EDUC 4319,Student Teaching: Music - Secondary
+EDUC 4322,Student Teaching: Theater - Elementary
+EDUC 4323,Student Teaching: Theater - Secondary
+EDUC 4324,Student Teaching and Integrated Technology: Middle School
+EDUC 4325,Student Teaching 4-8 2Nd 7 Wks
+EDUC 4511,Student Teaching and Integrated Technology-Elementary
+EDUC 4512,Student Teaching and Integrated Technology-Elementary
+ECE 1197 ,Selected Topics
+ECE 1397 ,Selected Topics
+ECE 2100 ,Circuit Analysis Laboratory
+ECE 2197 ,Selected Topics
+ECE 2201 ,Circuit Analysis I
+ECE 2202 ,Circuit Analysis II
+ECE 2397 ,Selected Topics
+ECE 3155 ,Electronics Laboratory
+ECE 3197 ,Selected Topics
+ECE 3317 ,Applied Electromagnetic Waves
+ECE 3318 ,Applied Electricity and Magnetism
+ECE 3331 ,Programming Applications in Electical and Computer Engineering
+ECE 3337 ,Signals and Systems Analysis
+ECE 3340 ,Numerical Methods for Electrical and Computer Engineers
+ECE 3355 ,Electronics
+ECE 3364 ,Circuits and Systems
+ECE 3366 ,Introduction to Digital Signal Processing
+ECE 3397 ,Selected Topics
+ECE 3399 ,Senior Honors Thesis
+ECE 3436 ,Microprocessor Systems
+ECE 3441 ,Digital Logic Design
+ECE 3456 ,Analog Electronics
+ECE 3457 ,Digital Electronics
+ECE 4113 ,Energy Conversion Laboratory
+ECE 4115 ,Control Systems Laboratory I
+ECE 4117 ,Telecommunications Laboratory
+ECE 4119 ,Solid State Devices Laboratory
+ECE 4197 ,Selected Topics
+ECE 4198 ,Independent Study
+ECE 4298 ,Independent Study
+ECE 4335 ,Electrical and Computer Engineering Design I
+ECE 4336 ,Electrical and Computer Engineering Design II
+ECE 4339 ,Physical Principles of Solid State Devices
+ECE 4363 ,Electromechanical Energy Conversion
+ECE 4371 ,Advanced Telecommunications
+ECE 4375 ,Automatic Control Systems
+ECE 4397 ,Selected Topics
+ECE 4398 ,Independent Study
+ECE 4399 ,Senior Honors Thesis
+ECE 4437 ,Embedded Microcomputer Systems
+ECE 4498 ,Independent Study
+ECE 5113 ,Microwave Engineering Laboratory
+ECE 5114 ,Antenna Engineering Laboratory
+ECE 5115 ,Control Systems Lab II
+ECE 5119 ,Nanotechnology Laboratory
+ECE 5120 ,Nanomaterials Engineering Laboratory
+ECE 5121 ,Nanofabrication Laboratory
+ECE 5127 ,Power System Analysis Lab
+ECE 5180 ,Power Electronics Laboratory
+ECE 5197 ,Selected Topics
+ECE 5311 ,Introduction to Machine Learning
+ECE 5317 ,Microwave Engineering
+ECE 5318 ,Antenna Engineering
+ECE 5319 ,Introduction to Nanotechnology
+ECE 5320 ,Introduction to Nanomaterials Engineering
+ECE 5321 ,Introduction to Nanoscale Design & Fabrication
+ECE 5330 ,Introduction to Robotics
+ECE 5335 ,State-Space Control Systems
+ECE 5340 ,Introduction to Well-Logging Techniques
+ECE 5346 ,VLSI Design
+ECE 5354 ,Digital Video
+ECE 5356 ,CMOS Analog Integrated Circuits
+ECE 5357 ,Introduction to Cybersecurity
+ECE 5358 ,Modern Optics and Photonics
+ECE 5367 ,Introduction to Computer Architecture and Design
+ECE 5377 ,Power System Analysis
+ECE 5380 ,Power Electronics and Electric Drives
+ECE 5384 ,Micro-Nano-Electro-Mechanical Systems and Nano Devices
+ECE 5385 ,Smart Grid Technology
+ECE 5388 ,Renewable Energy Technology
+ECE 5397 ,Selected Topics
+ECE 5436 ,Advanced Microprocessor Systems
+ECE 5440 ,Advanced Digital Design
+ECE 5451 ,Principles of Internetworking
+ELET 1400,Circuit Theory and Lab I
+ELET 1401,Circuit Theory and Laboratory II
+ELET 2101,Poly-Phase Circuits and Transformers Laboratory
+ELET 2103,Digital Systems Laboratory
+ELET 2105,Semiconductor Devices and Circuits Laboratory
+ELET 2300,Introduction To C++ Programming
+ELET 2301,Poly-phase Circuits and Transformers
+ELET 2303,Digital Systems
+ELET 2305,Semiconductor Devices and Circuits
+ELET 2307,Electrical-Electronic Circuits
+ELET 3107,Electrical Mach & Control Lab
+ELET 3112,Rotating Machine Controls Laboratory
+ELET 3300,Applied Mathematics in Engineering Technology
+ELET 3301,Linear Systems Analysis
+ELET 3307,Electrical Machines & Controls
+ELET 3312,Programmable Logic Controllers & Motor Control Systems
+ELET 3402,Communications Circuits
+ELET 3403,Sensor Applications
+ELET 3405,Microprocessor Architecture
+ELET 3425,Embedded Systems
+ELET 4103,Power Distribution and Transmission Lab
+ELET 4105,Senior Design Lab in Electrical Power Engineering Technology
+ELET 4126,Power Converter Circuits Laboratory
+ELET 4198,Independent Study
+ELET 4208,Senior Project Laboratory
+ELET 4300,Unix Operating System
+ELET 4302,Data Communication Systems
+ELET 4303,Computer-Based Power Distribution and Transmission
+ELET 4304,Control Systems
+ELET 4305,Senior Design in Electrical Power Engineering Technology
+ELET 4308,Senior Project
+ELET 4309,Object-Oriented Applications Programming
+ELET 4310,Alternative Electrical Energy Sources
+ELET 4315,Telecommunications
+ELET 4317,Computer-Based Electrical System Protection and Safety
+ELET 4319,Electrical Power Systems and Industry Practices
+ELET 4325,Advanced Microcomputer Networks
+ELET 4326,Power Converter Circuits
+ELET 4327,Optical Circuits
+ELET 4332,Physiological Systems Modeling and Simulation
+ELET 4345,The Principles and Applications of Fuel Cell Technology
+ELET 4350,Overview of Computational Health Informatics
+ELET 4351,Biomedical Data Mining
+ELET 4352,Computational Tools for Technology
+ELET 4353,Statistics for Engineering Technology
+ELET 4354,Biomedical Image Analysis
+ELET 4355,Biomedical Signal Analysis
+ELET 4356,Information Visualization in Engineering Technology
+ELET 4360,Sustainable and Resilient Technology Development
+ELET 4397,Selected Topics in Elet
+ELET 4398,Independent Study
+ELET 4421,Computer Networks
+ELED 3320,Survey of Literature for Children and Adolescents
+ELED 3322,Elementary Reading and Phonics Instruction
+ELED 4310,Reading and Language Arts in the Elementary School
+ELED 4311,Science in the Elementary School I
+ELED 4312,Science in the Elementary School II
+ELED 4314,Mathematics in the Elementary School I
+ELED 4315,Mathematics in the Elementary School II
+ELED 4320,Social Studies in the Elementary School
+ENRG 3310,Introduction to Energy and Sustainability
+ENRG 3311,Fundamentals of Sustainability
+ENRG 3312,Politics of Energy and the Environment
+ENRG 3377,"Energy, Society and the Middle East"
+ENRG 4302,Energy Supply Chain
+ENRG 4320,Case Studies in Energy and Sustainability
+ENRG 4397,Selected Topics in Energy and Sustainability
+ENRG 4398,Independent Study in Energy and Sustainability
+ENGI 1100,Introduction To Engineering
+ENGI 1101,Engineering Success
+ENGI 1197,Selected Topics
+ENGI 1331,Computing and Problem Solving for Engineers
+ENGI 1397,Selected Topics
+ENGI 2197,Selected Topics
+ENGI 2304,Technical Communications for Engineers
+ENGI 2334,Introduction To Thermodynamics
+ENGI 2397,Selected Topics
+ENGI 3197,Selected Topics
+ENGI 3397,Selected Topics
+ENGI 4197,Selected Topics
+ENGI 4198,Independent Study
+ENGI 4397,Selected Topics
+ENGI 4398,Independent Study
+ENGR 1304,Engineering Graphics
+ENGR 2301,Mechanics I (Statics)
+ENGR 2405,Circuit Analysis
+ENGR 2406,Fundamentals of Digital Logic
+EGRP 1120,Design Laboratory
+EGRP 1121,Design Laboratory II
+EGRP 1130,Engineering Applications I
+EGRP 1131,Engineering Applications II
+EGRP 1140,Engineering Applications III
+EGRP 1141,Engineering Applications IV
+EGRP 1142,Engineering Applications V
+EGRP 1150,Engineering Applications VI
+EGRP 1151,Engineering Applications VII
+EGRP 1165,Engineering Workshop
+EGRP 1170,Engineering Applications IX
+EGRP 1180,Engineering Applications X
+EGRP 1181,Engineering Applications XI
+EGRP 1182,Engineering Applications XII
+EGRP 1183,Engineering Applications XIII
+ENGL 1301,First Year Writing I
+ENGL 1302,First Year Writing II
+ENGL 1370,Freshman Composition II-Honors
+ENGL 2305,Intro To Fiction
+ENGL 2306,Intro To Poetry
+ENGL 2307,Intro To Drama
+ENGL 2308,Studies in Non-Fiction Writing
+ENGL 2314,Literature and 21st Century Identities
+ENGL 2315,Literature and Film
+ENGL 2316,Literature and Culture
+ENGL 2318,Creation and Performance of Literature
+ENGL 2320,Introduction to Digital Humanities
+ENGL 2321,"Writing, Technology, and Social Media"
+ENGL 2322,British Literature I
+ENGL 2323,British Literature II
+ENGL 2324,Writing the Arts and Visual Media
+ENGL 2325,Lit Trad of Nonwestern World
+ENGL 2330,Writing in the Discipline of English
+ENGL 2332,Western World Literature I
+ENGL 2333,Western World Literature II
+ENGL 2340,Cosmic Narratives
+ENGL 2350,Writing the Global City
+ENGL 2360,Western World Lit I–Honors
+ENGL 2361,Western World Lit II–Honors
+ENGL 3300,Ancient & Classical Lit
+ENGL 3301,Intro To Literary Studies
+ENGL 3302,Medieval Literature
+ENGL 3304,Chaucer
+ENGL 3305,English Renaissance
+ENGL 3306,Shakespeare-Major Works
+ENGL 3309,Renaissance Drama
+ENGL 3312,Lit-Restoratn&18Th Cen
+ENGL 3313,Restor and 18Th Cen Dra
+ENGL 3315,The Romantic Movement
+ENGL 3316,Lit of Victorian Age
+ENGL 3317,The British Novel Before 1832
+ENGL 3318,The British Novel Since 1832
+ENGL 3321,Modern British Lit
+ENGL 3322,Contemporary Novel
+ENGL 3323,Developmnt of Literary Criticism and Theory
+ENGL 3324,The Development of the Novel
+ENGL 3325,Structures of Poetry
+ENGL 3327,Masterpieces of British Literature to the Eighteenth Century
+ENGL 3328,Masterpieces of British Literature from the Eighteenth Century
+ENGL 3329,Beginning Creative Writing: Fiction and Poetry
+ENGL 3330,Beginning Creative Writing: Fiction
+ENGL 3331,Beginning Creative Writing: Poetry
+ENGL 3332,Beginning Creative Writing: Nonfiction
+ENGL 3339,Student Literary Journal Practicum
+ENGL 3340,Advanced Composition
+ENGL 3341,Bus & Prof Writing
+ENGL 3343,Advanced Composition: Style
+ENGL 3345,Nobel Prize Winners in Lit
+ENGL 3347,Classics of Adolescent Literature
+ENGL 3348,Thoreau
+ENGL 3349,Native American Literature
+ENGL 3350,American Literature to 1865
+ENGL 3351,Am Lit Since 1865
+ENGL 3352,19th Century American Fiction
+ENGL 3353,Modern American Fiction
+ENGL 3354,Contemp Amer Fiction
+ENGL 3358,Hong Kong Cinema
+ENGL 3360,Survey of African-American Lit
+ENGL 3361,Mexican American Lit
+ENGL 3362,Women in Literature
+ENGL 3363,African-American Fiction
+ENGL 3364,African-Am Poetry and Drama
+ENGL 3365,Postcolonial Literature
+ENGL 3366,Jewish-American Literature
+ENGL 3367,Gay and Lesbian Literature
+ENGL 3368,Topics in Asian American Literary Studies
+ENGL 3369,Caribbean Literatures
+ENGL 3370,Modern Irish Literature
+ENGL 3371,Contemporary Irish Literature
+ENGL 3379,African Literature
+ENGL 3380,Modern Indian Literature
+ENGL 3396,Selected Topics
+ENGL 3399,Senior Honors Thesis
+ENGL 4300,Intro-Study of Language
+ENGL 4303,Teaching English as a Second Language
+ENGL 4304,Varieties of English
+ENGL 4310,His of English Language
+ENGL 4311,Language Socialization
+ENGL 4315,Sociolinguistics
+ENGL 4319,English in the Secondary Schools
+ENGL 4322,Grammar & Usage
+ENGL 4330,European Renaissance
+ENGL 4332,Modern and Contemporary Poetry
+ENGL 4340,Feminist Criticism and Theory
+ENGL 4341,Queer Theory
+ENGL 4342,Gender and Writing
+ENGL 4343,Writing Houston: Reading and Researching Our City
+ENGL 4352,Nonfiction Writing
+ENGL 4357,Nonfiction Forms
+ENGL 4358,Senior Writing Projects in Creative Writing: Nonfiction
+ENGL 4360,Bible As Literature
+ENGL 4364,Minorities in Lit
+ENGL 4366,Intro To Folklore
+ENGL 4367,Documenting Community Culture
+ENGL 4370,Literature and the Law
+ENGL 4371,Literature and Medicine
+ENGL 4372,Literature and the Environment
+ENGL 4373,"Film, Text, and Politics"
+ENGL 4374,Literature and Alienation: Alienation Then and Now
+ENGL 4375,Literature & Popular Culture
+ENGL 4376,Robin Hood in Culture
+ENGL 4378,Women Writers
+ENGL 4380,Greek Classics in Translation
+ENGL 4381,Latin Classics in Translation
+ENGL 4382,Poetry Writing
+ENGL 4383,Poetic Forms
+ENGL 4384,Senior Writing Projects in Creative Writing: Poetry
+ENGL 4385,Fiction Forms
+ENGL 4386,Short Story Writing
+ENGL 4387,Senior Writing Projects in Creative Writing: Fiction
+ENGL 4390,Professional Internship
+ENGL 4391,Senior Seminar: Advanced Community Engagement
+ENGL 4392,Practicum: Teaching English as an Additional Language
+ENGL 4394,Topics in the Historical Novel
+ENGL 4395,Advanced Topics in Creative Writing
+ENGL 4396,Senior Experience Seminar Topics
+ENGL 4397,"Topics in Film, Literature, and Culture"
+ENGL 4398,Independent Study
+ENGL 4399,Senior Honors Thesis
+ENTR 3310,Entrepreneurship
+ENTR 3311,Technology Entrepreneurship
+ENTR 3312,Corporate Entrepreneurship
+ENTR 3321,Social Entrepreneurship
+ENTR 3341,Family Business
+ENTR 3342,Women in Entrepreneurship
+ENTR 4110,Entrepreneurial Values and Leadership
+ENTR 4320,Entrepreneurial Revenue
+ENTR 4330,Entrepreneurial Costs and Budgets
+ENTR 4340,Entrepreneurial Capital
+ENTR 4350,Entrepreneurial Strategy
+ENTR 4360,Business Plan and Implementation
+ENTR 4380,Venture Fund
+ENTR 4393,RED Labs Pre-accelerator
+ENTR 4394,RED Labs Accelerator
+ENTR 4396,Entrepreneurship Internship
+ENTR 4397,Sel Topics in Entrepreneurship
+ENTR 4398,Independent Study in Entrepreneurship
+ETHN 2300,Introduction to Ethnic Studies
+CORE 1101,College Success
+FINA 3332,Principles of Financial Management
+FINA 4310,Behavioral Finance
+FINA 4320,Investment Management
+FINA 4323,Investments and Mutual Fund Management
+FINA 4325,Retirement and Estate Planning
+FINA 4326,Private Equity and Investment Banking
+FINA 4328,Principles of Personal Finance
+FINA 4329,Life Insurance and Annuities
+FINA 4330,Corporate Finance
+FINA 4334,Managerial Analysis
+FINA 4335,Brainstorming to Bankrolling
+FINA 4336,Consulting to Meet Small Business Needs
+FINA 4341,Commercial Bank Management
+FINA 4342,Financial Evaluation of Corporate Reports
+FINA 4343,Credit Analysis
+FINA 4350,Derivatives I: Options
+FINA 4351,"Derivatives II: Forwards, Futures and Swaps"
+FINA 4352,Financial Planning for Professionals
+FINA 4353,Practicum in Personal Financial Planning
+FINA 4354,Risk Management
+FINA 4355,International Risk Management
+FINA 4356,Insurance Operations
+FINA 4357,Commercial Liability
+FINA 4358,Commercial Property
+FINA 4359,Energy Insurance and Risk Management
+FINA 4360,International Financial Management
+FINA 4370,Energy Trading
+FINA 4371,Energy Value Chain
+FINA 4372,Upstream Economics
+FINA 4373,Petrochemical and Refining Economics
+FINA 4374,Energy Analysis
+FINA 4376,Energy Trading Systems
+FINA 4377,Risk Financing
+FINA 4380,Real Estate Finance and Investment
+FINA 4381,Essentials of Real Estate Principles
+FINA 4382,Developing a Real Estate Project
+FINA 4383,Real Estate Market Research and Valuation
+FINA 4384,Real Estate Financial Modeling
+FINA 4385,Mastery of Real Estate
+FINA 4389,Multifamily Real Estate
+FINA 4396,Finance Internship
+FINA 4397,Selected Topics in Finance
+FINA 4398,Independent Study
+FINA 4399,Senior Honor Thesis
+FREN 1501,Elementary French I
+FREN 1502,Elementary French II
+FREN 2311,Intermediate French I
+FREN 2312,Intermediate French II
+FREN 3311,French Phonetics
+FREN 3312,Oral Communication
+FREN 3313,Advanced Grammar & Comp
+FREN 3315,Practical Translation
+FREN 3316,Survey of French Culture/Civ
+FREN 3317,Business French
+FREN 3318,History of French Cinema
+FREN 3319,History of the French Cinema
+FREN 3320,Introduction to French Literature
+FREN 3321,Francophone African Cinema
+FREN 3322,Francophone African Cinema
+FREN 3331,The Life of Words
+FREN 3334,Gastronomy in French History
+FREN 3335,French Popular Music
+FREN 3340,Contemporary French Society
+FREN 3341,Women in French Cinema
+FREN 3350,Introduction to Francophone Literature
+FREN 3351,The Francophone World
+FREN 3352,Youth in Francophone Film
+FREN 3362,Paris-Berlin: Tales of Two Cities
+FREN 3364,Writing Holocausts: The Literatures of Genocide
+FREN 3397,Sel Topics in French
+FREN 3398,Independent Study
+FREN 3399,Senior Honors Thesis
+FREN 4315,Advanced Translation
+FREN 4316,Contemporary France
+FREN 4317,Advanced Business French
+FREN 4326,Nineteenth Century French Literature
+FREN 4328,Twentieth Century French Literature
+FREN 4329,Twentieth Century French Novel

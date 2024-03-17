@@ -103,7 +103,7 @@ void categorize(vector<vector<string>>& v, string i)
 			hilo = v[row][col];
 			if (hilo.substr(0, 4) == i)
 			{
-				cout << v[row][col] << " " << v[row][col + 1] << endl;
+				cout << v[row][col] << " " << v[row][col + 1]  << endl;
 			}
 		}
 		//cout << endl;
