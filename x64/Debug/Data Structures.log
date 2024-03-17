@@ -1,4 +1,1 @@
-﻿  attempt.cpp
-C:\Users\Martin\source\repos\Data Structures\attempt.cpp(40,10): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\Martin\source\repos\Data Structures\attempt.cpp(41,10): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-  Data Structures.vcxproj -> C:\Users\Martin\source\repos\Data Structures\x64\Debug\Data Structures.exe
+﻿  Data Structures.vcxproj -> C:\Users\Martin\source\repos\Data Structures\x64\Debug\Data Structures.exe

@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="2DVector_2DArray.cpp">
+    <ClCompile Include="csv2DArray.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
