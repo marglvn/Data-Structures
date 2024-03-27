@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="TemplateBinaryTree.cpp">
+    <ClCompile Include="BinTree.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

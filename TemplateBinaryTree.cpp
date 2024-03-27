@@ -74,11 +74,12 @@ class BinaryTree
 
 		void displayInOrder(TreeNode* nodePtr) const
 		{
+			//root;
 			if (nodePtr)
 			{
-				displayInOrder(nodePtr->left);
-				cout << nodePtr->value << endl;
-				displayInOrder(nodePtr->right);
+				displayInOrder(nodePtr->left);		//					[2]
+				cout << nodePtr->value << " ";		//				   /   \				//
+				displayInOrder(nodePtr->right);		//				[1]     [3]
 			}
 		}
 
@@ -86,9 +87,9 @@ class BinaryTree
 		{
 			if (nodePtr)
 			{
-				cout << nodePtr->value << endl;
-				displayPreOrder(nodePtr->left);
-				displayPreOrder(nodePtr->right);
+				cout << nodePtr->value << " ";		//					[1]
+				displayPreOrder(nodePtr->left);		//				   /
+				displayPreOrder(nodePtr->right);	//				[2]-----[3]
 			}
 		}
 
@@ -96,9 +97,9 @@ class BinaryTree
 		{
 			if (nodePtr)
 			{
-				displayPostOrder(nodePtr->left);
-				displayPostOrder(nodePtr->right);
-				cout << nodePtr->value << endl;
+				displayPostOrder(nodePtr->left);	//					[3]
+				displayPostOrder(nodePtr->right);	//						\				//
+				cout << nodePtr->value << " ";		//				[1]-----[2]
 			}
 		}
 
@@ -124,13 +125,22 @@ class BinaryTree
 		}
 
 		void displayInOrder() const
-		{	displayInOrder(root);	}
+		{
+			displayInOrder(root);
+			cout << endl;
+		}
 
 		void displayPreOrder() const
-		{	displayPreOrder(root);	}
+		{
+			displayPreOrder(root);
+			cout << endl;
+		}
 
 		void displayPostOrder() const
-		{	displayPostOrder(root);	}
+		{
+			displayPostOrder(root);
+			cout << endl;
+		}
 
 
 };
@@ -139,16 +149,21 @@ int main()
 {
 	BinaryTree<int> arbol;
 
-	arbol.insertNode(5);
-	arbol.insertNode(10);
-	arbol.insertNode(15);
-	arbol.insertNode(20);
+	arbol.insertNode(50);
 	arbol.insertNode(25);
+	arbol.insertNode(100);
+	arbol.insertNode(10);
+	arbol.insertNode(200);
+	arbol.insertNode(300);
+	
 
+	cout << "Displaying InOrder:\n";
 	arbol.displayInOrder();
 	cout << endl;
+	cout << "Displaying PreOrder:\n";
 	arbol.displayPreOrder();
 	cout << endl;
+	cout << "Displaying PostOrder:\n";
 	arbol.displayPostOrder();
 	cout << endl;
 
