@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="BinTree.cpp">
+    <ClCompile Include="StackExercise.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
