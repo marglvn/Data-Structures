@@ -19,10 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="unigramsattempt.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <Text Include="unigrams.txt" />
+    <ClCompile Include="STL Set.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>

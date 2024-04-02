@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Martin\\source\\repos\\Data-Structures\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{080DCF7C-6ED6-4F6E-BFD5-6AC623C3C91A}|Data Structures.vcxproj|C:\\Users\\Martin\\source\\repos\\Data-Structures\\BinTree.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{080DCF7C-6ED6-4F6E-BFD5-6AC623C3C91A}|Data Structures.vcxproj|solutionrelative:BinTree.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{080DCF7C-6ED6-4F6E-BFD5-6AC623C3C91A}|Data Structures.vcxproj|C:\\Users\\Martin\\source\\repos\\Data-Structures\\STL Set.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{080DCF7C-6ED6-4F6E-BFD5-6AC623C3C91A}|Data Structures.vcxproj|solutionrelative:STL Set.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "BinTree.cpp",
-              "DocumentMoniker": "C:\\Users\\Martin\\source\\repos\\Data-Structures\\BinTree.cpp",
-              "RelativeDocumentMoniker": "BinTree.cpp",
-              "ToolTip": "C:\\Users\\Martin\\source\\repos\\Data-Structures\\BinTree.cpp",
-              "RelativeToolTip": "BinTree.cpp",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAqwC8AAAANAAAA",
+              "Title": "STL Set.cpp",
+              "DocumentMoniker": "C:\\Users\\Martin\\source\\repos\\Data-Structures\\STL Set.cpp",
+              "RelativeDocumentMoniker": "STL Set.cpp",
+              "ToolTip": "C:\\Users\\Martin\\source\\repos\\Data-Structures\\STL Set.cpp",
+              "RelativeToolTip": "STL Set.cpp",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-26T23:37:24.243Z",
+              "WhenOpened": "2024-03-30T02:39:22.919Z",
               "EditorCaption": ""
             }
           ]
