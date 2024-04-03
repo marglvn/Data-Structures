@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="DynamicDoubleEndedQueue.cpp">
+    <ClCompile Include="Deque.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
