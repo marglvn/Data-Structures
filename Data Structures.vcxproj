@@ -19,6 +19,8 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="attempt.cpp" />
+    <ClCompile Include="Priority Queue v5.cpp" />
     <ClCompile Include="PriorityQueue.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">

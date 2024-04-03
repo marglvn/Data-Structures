@@ -15,7 +15,13 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="attempt.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
     <ClCompile Include="PriorityQueue.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Priority Queue v5.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
