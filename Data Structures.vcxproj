@@ -19,9 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="attempt.cpp" />
-    <ClCompile Include="Priority Queue v5.cpp" />
-    <ClCompile Include="PriorityQueue.cpp" />
+    <ClCompile Include="UnigramsCounter.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>

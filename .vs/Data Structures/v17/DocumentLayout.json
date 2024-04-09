@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Martin\\source\\repos\\Data-Structures\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{080DCF7C-6ED6-4F6E-BFD5-6AC623C3C91A}|Data Structures.vcxproj|C:\\Users\\Martin\\source\\repos\\Data-Structures\\DynamicDoubleEndedQueue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{080DCF7C-6ED6-4F6E-BFD5-6AC623C3C91A}|Data Structures.vcxproj|solutionrelative:DynamicDoubleEndedQueue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{080DCF7C-6ED6-4F6E-BFD5-6AC623C3C91A}|Data Structures.vcxproj|C:\\Users\\Martin\\source\\repos\\Data-Structures\\UnigramsCounter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{080DCF7C-6ED6-4F6E-BFD5-6AC623C3C91A}|Data Structures.vcxproj|solutionrelative:UnigramsCounter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "DynamicDoubleEndedQueue.cpp",
-              "DocumentMoniker": "C:\\Users\\Martin\\source\\repos\\Data-Structures\\DynamicDoubleEndedQueue.cpp",
-              "RelativeDocumentMoniker": "DynamicDoubleEndedQueue.cpp",
-              "ToolTip": "C:\\Users\\Martin\\source\\repos\\Data-Structures\\DynamicDoubleEndedQueue.cpp",
-              "RelativeToolTip": "DynamicDoubleEndedQueue.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHsAAAAOAAAA",
+              "Title": "UnigramsCounter.cpp",
+              "DocumentMoniker": "C:\\Users\\Martin\\source\\repos\\Data-Structures\\UnigramsCounter.cpp",
+              "RelativeDocumentMoniker": "UnigramsCounter.cpp",
+              "ToolTip": "C:\\Users\\Martin\\source\\repos\\Data-Structures\\UnigramsCounter.cpp",
+              "RelativeToolTip": "UnigramsCounter.cpp",
+              "ViewState": "AQIAAHgAAAAAAAAAAAAuwGQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-04-02T19:15:40.521Z",
+              "WhenOpened": "2024-04-09T15:48:18.44Z",
               "EditorCaption": ""
             }
           ]

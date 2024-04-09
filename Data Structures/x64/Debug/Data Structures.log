@@ -1,2 +1,8 @@
-﻿  attempt.cpp
+﻿  UnigramsCounter.cpp
+C:\Users\Martin\source\repos\Data-Structures\UnigramsCounter.cpp(56,22): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\Martin\source\repos\Data-Structures\UnigramsCounter.cpp(61,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Martin\source\repos\Data-Structures\UnigramsCounter.cpp(92,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Martin\source\repos\Data-Structures\UnigramsCounter.cpp(123,23): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\Martin\source\repos\Data-Structures\UnigramsCounter.cpp(130,43): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\Martin\source\repos\Data-Structures\UnigramsCounter.cpp(135,23): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
   Data Structures.vcxproj -> C:\Users\Martin\source\repos\Data-Structures\x64\Debug\Data Structures.exe
