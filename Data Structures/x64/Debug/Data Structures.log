@@ -1,8 +1,10 @@
-﻿  UnigramsCounter.cpp
-C:\Users\Martin\source\repos\Data-Structures\UnigramsCounter.cpp(56,22): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
-C:\Users\Martin\source\repos\Data-Structures\UnigramsCounter.cpp(61,16): warning C4018: '<': signed/unsigned mismatch
-C:\Users\Martin\source\repos\Data-Structures\UnigramsCounter.cpp(92,21): warning C4018: '<': signed/unsigned mismatch
-C:\Users\Martin\source\repos\Data-Structures\UnigramsCounter.cpp(123,23): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
-C:\Users\Martin\source\repos\Data-Structures\UnigramsCounter.cpp(130,43): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
-C:\Users\Martin\source\repos\Data-Structures\UnigramsCounter.cpp(135,23): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+﻿  Unigrams v1.cpp
+C:\Users\Martin\source\repos\Data-Structures\Unigrams v1.cpp(53,22): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\Martin\source\repos\Data-Structures\Unigrams v1.cpp(56,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Martin\source\repos\Data-Structures\Unigrams v1.cpp(66,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Martin\source\repos\Data-Structures\Unigrams v1.cpp(96,22): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\Martin\source\repos\Data-Structures\Unigrams v1.cpp(98,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Martin\source\repos\Data-Structures\Unigrams v1.cpp(122,35): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\Martin\source\repos\Data-Structures\Unigrams v1.cpp(124,33): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\Martin\source\repos\Data-Structures\Unigrams v1.cpp(137,20): warning C4018: '<': signed/unsigned mismatch
   Data Structures.vcxproj -> C:\Users\Martin\source\repos\Data-Structures\x64\Debug\Data Structures.exe
