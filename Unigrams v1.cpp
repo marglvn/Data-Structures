@@ -103,7 +103,7 @@ void displayArray(string*& Arr)
 
 int main()
 {
-	filename_input = "C:\\3304 Input File\\unigrams.txt";
+	filename_input = "C:\\3304 Input File\\data.txt";
 
 	file.open(filename_input.c_str());
 	word_counter = 0;
@@ -120,7 +120,7 @@ int main()
 
 	
 	num_of_unigram = unigram_set.size();	//	makes the number set to the amount of unigrams, integer
-	unigram_count = new unsigned int[num_of_unigram]();	//	creates array pointer, array; i kept messing this up bc of parrenthesis
+	unigram_count = new unsigned int[num_of_unigram]();	//	creates array pointer, array; i kept messing this up bc of parenthesis
 	file_size = unigram_vector.size();	//	takes size of vector, 8
 
 	/*
@@ -138,7 +138,7 @@ int main()
 	{
 		index = Linear_Search(unigram_vector[i]);	//	inputs string one at a time for all strings available, 
 
-		if (index >= 0)		//	I missed up here, since Linear Search will spit out 0's in the beginning
+		if (index >= 0)		//	I messed up here, since Linear Search will spit out 0's in the beginning
 			unigram_count[index]++;		//	such strange code, 
 		else
 			cout << "could not find" << endl;
@@ -151,8 +151,8 @@ int main()
 	cout << first << endl;
 	cout << second << endl;
 	cout << third << endl;
-	cout << fourth << endl;
-	cout << fifth << endl;
+	//cout << fourth << endl;
+	//cout << fifth << endl;
 	
 
 
@@ -162,7 +162,7 @@ int main()
 	cout << endl << endl;
 	displayArray(unigram_array);
 
-	out.open("C:\\3304 Output File\\data unigrams count.csv");
+	out.open("C:\\3304 Output File\\unigram counts.csv");
 	out << "Unigram" << ',' << "Count" << endl;
 
 	for (unsigned int t = 0; t < num_of_unigram; t++)

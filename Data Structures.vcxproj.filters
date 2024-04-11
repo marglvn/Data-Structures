@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Unigrams v1.cpp">
+    <ClCompile Include="Unigrams v2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
