@@ -1,7 +1,5 @@
-﻿  Unigrams v5.cpp
-C:\Users\Martin\source\repos\Data Structures\Unigrams v5.cpp(58,26): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\Martin\source\repos\Data Structures\Unigrams v5.cpp(80,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\Martin\source\repos\Data Structures\Unigrams v5.cpp(135,27): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\Martin\source\repos\Data Structures\Unigrams v5.cpp(139,31): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\Martin\source\repos\Data Structures\Unigrams v5.cpp(140,29): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+﻿  Unigrams v6.cpp
+C:\Users\Martin\source\repos\Data Structures\Unigrams v6.cpp(58,21): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Martin\source\repos\Data Structures\Unigrams v6.cpp(79,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Martin\source\repos\Data Structures\Unigrams v6.cpp(131,29): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
   Data Structures.vcxproj -> C:\Users\Martin\source\repos\Data Structures\x64\Debug\Data Structures.exe
