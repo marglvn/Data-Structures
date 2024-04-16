@@ -1,5 +1,5 @@
-﻿  Unigrams v7.cpp
-C:\Users\Martin\source\repos\Data Structures\Unigrams v7.cpp(58,24): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\Martin\source\repos\Data Structures\Unigrams v7.cpp(91,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\Martin\source\repos\Data Structures\Unigrams v7.cpp(138,28): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+﻿  attempt.cpp
+C:\Users\Martin\source\repos\Data Structures\attempt.cpp(246,34): warning C4101: 'e': unreferenced local variable
+C:\Users\Martin\source\repos\Data Structures\attempt.cpp(255,8): warning C4834: discarding return value of function with [[nodiscard]] attribute
+C:\Users\Martin\source\repos\Data Structures\attempt.cpp(258,34): warning C4101: 'e': unreferenced local variable
   Data Structures.vcxproj -> C:\Users\Martin\source\repos\Data Structures\x64\Debug\Data Structures.exe
