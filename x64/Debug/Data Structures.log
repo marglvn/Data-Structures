@@ -1,5 +1,4 @@
 ﻿  attempt.cpp
-C:\Users\Martin\source\repos\Data Structures\attempt.cpp(246,34): warning C4101: 'e': unreferenced local variable
-C:\Users\Martin\source\repos\Data Structures\attempt.cpp(255,8): warning C4834: discarding return value of function with [[nodiscard]] attribute
-C:\Users\Martin\source\repos\Data Structures\attempt.cpp(258,34): warning C4101: 'e': unreferenced local variable
+C:\Users\Martin\source\repos\Data Structures\attempt.cpp(26,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Martin\source\repos\Data Structures\attempt.cpp(89,23): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
   Data Structures.vcxproj -> C:\Users\Martin\source\repos\Data Structures\x64\Debug\Data Structures.exe

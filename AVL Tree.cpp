@@ -28,245 +28,287 @@ avl_node* insert(avl_node* nodePtr, float value)
 */
 #include <iostream>
 #include <string>
+
 using namespace std;
+
 class avlTree
 {
-private:
-	// Node Declaration
-	struct avl_node
-	{
-		float data;
-		avl_node* left;
-		avl_node* right;
-	};
-public:
-	avl_node* root;
-	avlTree()
-	{
-		root = nullptr;
-	}
-	int height(avl_node* temp)
-	{
-		int h = 0;
-		if (temp != nullptr)
+	private:
+
+		// Node Declaration
+		struct avl_node
+		{
+			float data;
+			avl_node* left;
+			avl_node* right;
+		};
+
+	public:
+
+		avl_node* root;
+
+		avlTree()
+		{
+			root = nullptr;
+		}
+
+		int height(avl_node* temp)
+		{
+			int h = 0;
+			if (temp != nullptr)
+			{
+				int l_height = height(temp->left);
+				int r_height = height(temp->right);
+				int max_height = max(l_height, r_height);
+				h = max_height + 1;
+			}
+			
+			return h;
+		}
+
+		int diff(avl_node* temp)
 		{
 			int l_height = height(temp->left);
 			int r_height = height(temp->right);
-			int max_height = max(l_height, r_height);
-			h = max_height + 1;
+			int b_factor = l_height - r_height;
+
+			return b_factor;
 		}
-		return h;
-	}
-	int diff(avl_node* temp)
-	{
-		int l_height = height(temp->left);
-		int r_height = height(temp->right);
-		int b_factor = l_height - r_height;
-		return b_factor;
-	}
-	avl_node* rr_rotation(avl_node* parent)
-	{
-		avl_node* temp;
-		temp = parent->right;
-		parent->right = temp->left;
-		temp->left = parent;
-		return temp;
-	}
-	avl_node* ll_rotation(avl_node* parent)
-	{
-		avl_node* temp;
-		temp = parent->left;
-		parent->left = temp->right;
-		temp->right = parent;
-		return temp;
-	}
-	avl_node* lr_rotation(avl_node* parent)
-	{
-		avl_node* temp;
-		temp = parent->left;
-		parent->left = rr_rotation(temp);
-		return ll_rotation(parent);
-	}
-	avl_node* rl_rotation(avl_node* parent)
-	{
-		avl_node* temp;
-		temp = parent->right;
-		parent->right = ll_rotation(temp);
-		return rr_rotation(parent);
-	}
-	avl_node* insert(avl_node* nodePtr, float value)
-	{
-		if (nodePtr == nullptr)
+
+		avl_node* rr_rotation(avl_node* parent)
 		{
-			nodePtr = new avl_node;
-			nodePtr->data = value;
-			nodePtr->left = nullptr;
-			nodePtr->right = nullptr;
-			return balance(nodePtr); // Apply balancing after insertion
+			avl_node* temp;
+			temp = parent->right;
+			parent->right = temp->left;
+			temp->left = parent;
+
+			return temp;
 		}
-		if (value < nodePtr->data)
+
+		avl_node* ll_rotation(avl_node* parent)
 		{
-			nodePtr->left = insert(nodePtr->left, value);
+			avl_node* temp;
+			temp = parent->left;
+			parent->left = temp->right;
+			temp->right = parent;
+
+			return temp;
 		}
-		else if (value > nodePtr->data)
+
+		avl_node* lr_rotation(avl_node* parent)
 		{
-			nodePtr->right = insert(nodePtr->right,
-				value);
+			avl_node* temp;
+			temp = parent->left;
+			parent->left = rr_rotation(temp);
+
+			return ll_rotation(parent);
 		}
-		else
+
+		avl_node* rl_rotation(avl_node* parent)
 		{
-			cout << "\n Value already"
-				<< " exists!" << endl;
+			avl_node* temp;
+			temp = parent->right;
+			parent->right = ll_rotation(temp);
+
+			return rr_rotation(parent);
 		}
-		return balance(nodePtr); // Apply balancing after insertion
-	}
-	avl_node* balanceTree(avl_node* nodePtr)
-	{
-		if (nodePtr == nullptr)
+
+		avl_node* insert(avl_node* nodePtr, float value)
 		{
-			return nullptr;
-		}
-		nodePtr->left = balanceTree(nodePtr->left);
-		nodePtr->right = balanceTree(nodePtr->right);
-		return balance(nodePtr); // Apply balancing to the entire tree
-	}
-	avl_node* balance(avl_node* temp)
-	{
-		int bal_factor = diff(temp);
-		if (bal_factor > 1)
-		{
-			if (diff(temp->left) > 0)
+			if (nodePtr == nullptr)
 			{
-				temp = ll_rotation(temp);
+				nodePtr = new avl_node;
+				nodePtr->data = value;
+				nodePtr->left = nullptr;
+				nodePtr->right = nullptr;
+
+				return balance(nodePtr); // Apply balancing after insertion
 			}
-			else {
-				temp = lr_rotation(temp);
-			}
-		}
-		else if (bal_factor < -1)
-		{
-			if (diff(temp->right) > 0)
+
+			if (value < nodePtr->data)
 			{
-				temp = rl_rotation(temp);
+				nodePtr->left = insert(nodePtr->left, value);
+			}
+			else if (value > nodePtr->data)
+			{
+				nodePtr->right = insert(nodePtr->right,
+					value);
 			}
 			else
 			{
-				temp = rr_rotation(temp);
+				cout << "\n Value already"
+					<< " exists!" << endl;
 			}
+
+			return balance(nodePtr); // Apply balancing after insertion
 		}
-		return temp;
-	}
-	void display(avl_node* ptr, int level)
-	{
-		int i;
-		if (ptr != nullptr)
+
+		avl_node* balanceTree(avl_node* nodePtr)
 		{
-			display(ptr->right, level + 1);
-			cout << endl;
-			if (ptr == root)
-				cout << "Root -> ";
-			for (i = 0; i < level && ptr != root; i++)
+			if (nodePtr == nullptr)
 			{
-				cout << " ";
+				return nullptr;
 			}
-			cout << ptr->data;
-			display(ptr->left, level + 1);
+			nodePtr->left = balanceTree(nodePtr->left);
+			nodePtr->right = balanceTree(nodePtr->right);
+
+			return balance(nodePtr); // Apply balancing to the entire tree
 		}
-	}
-	void inorder(avl_node* nodePtr)
-	{
-		if (nodePtr == nullptr)
-			return;
-		inorder(nodePtr->left);
-		cout << nodePtr->data << " ";
-		inorder(nodePtr->right);
-	}
-	void preorder(avl_node* nodePtr)
-	{
-		if (nodePtr == nullptr)
-			return;
-		cout << nodePtr->data << " ";
-		preorder(nodePtr->left);
-		preorder(nodePtr->right);
-	}
-	void postorder(avl_node* nodePtr)
-	{
-		if (nodePtr == nullptr)
-			return;
-		postorder(nodePtr->left);
-		postorder(nodePtr->right);
-		cout << nodePtr->data << " ";
-	}
-	bool validate(string str)//Validate that str is a floating point number
-	{
-	for (unsigned int i = 0; i < str.length(); i++)
-	{
-		if ((str[i] != '.' && !isdigit(str[i])) && (i != 0 || str[i] != '-'))
-			return false;
-	}
-		return true;
-	}
-		~avlTree()
-	{
-		destroyTree(root);
-	}
-	void clear()
-	{
-		destroyTree(root);
-		root = nullptr;
-	}
-	void destroyTree(avl_node* node)
-	{
-		if (node != nullptr)
+
+		avl_node* balance(avl_node* temp)
 		{
-			destroyTree(node->left);
-			destroyTree(node->right);
-			delete node;
+			int bal_factor = diff(temp);
+
+			if (bal_factor > 1)
+			{
+				if (diff(temp->left) > 0)
+				{
+					temp = ll_rotation(temp);
+				}
+				else {
+					temp = lr_rotation(temp);
+				}
+			}
+			else if (bal_factor < -1)
+			{
+				if (diff(temp->right) > 0)
+				{
+					temp = rl_rotation(temp);
+				}
+				else
+				{
+					temp = rr_rotation(temp);
+				}
+			}
+
+			return temp;
 		}
-	}
-	void Display_Menu()
-	{
-		cout << endl;
-		cout << "---------------------" << endl;
-		cout << "1.Insert Element into the tree" << endl;
-		cout << "2.PreOrder traversal" << endl;
-		cout << "3.InOrder traversal" << endl;
-		cout << "4.PostOrder traversal" << endl;
-		cout << "5.Clear Tree" << endl; // Added option to clear the tree
-		cout << "6.Exit" << endl;
-		cout << "---------------------" << endl;
-	}
-	bool validateMenuItemInput(string input)
-	{
-		try
+
+		void display(avl_node* ptr, int level)
 		{
-			int choice = stoi(input);
-			return choice >= 1 && choice <= 6;
+			int i;
+			if (ptr != nullptr)
+			{
+				display(ptr->right, level + 1);
+				cout << endl;
+				if (ptr == root)
+					cout << "Root -> ";
+				for (i = 0; i < level && ptr != root; i++)
+				{
+					cout << " ";
+				}
+				cout << ptr->data;
+				display(ptr->left, level + 1);
+			}
 		}
-		catch (const invalid_argument& e)
+
+		void inorder(avl_node* nodePtr)
 		{
-			return false;
+			if (nodePtr == nullptr)
+				return;
+			inorder(nodePtr->left);
+			cout << nodePtr->data << " ";
+			inorder(nodePtr->right);
 		}
-	}
-	bool validateFloatInput(string input)
-	{
-		try
+
+		void preorder(avl_node* nodePtr)
 		{
-			stof(input);
+			if (nodePtr == nullptr)
+				return;
+			cout << nodePtr->data << " ";
+			preorder(nodePtr->left);
+			preorder(nodePtr->right);
+		}
+
+		void postorder(avl_node* nodePtr)
+		{
+			if (nodePtr == nullptr)
+				return;
+			postorder(nodePtr->left);
+			postorder(nodePtr->right);
+			cout << nodePtr->data << " ";
+		}
+
+		bool validate(string str)//Validate that str is a floating point number
+		{
+			for (unsigned int i = 0; i < str.length(); i++)
+			{
+				if ((str[i] != '.' && !isdigit(str[i])) && (i != 0 || str[i] != '-'))
+					return false;
+			}
+				
 			return true;
 		}
-		catch (const invalid_argument& e)
+
+		~avlTree()
 		{
-			return false;
+			destroyTree(root);
 		}
-	}
+
+		void clear()
+		{
+			destroyTree(root);
+			root = nullptr;
+		}
+
+		void destroyTree(avl_node* node)
+		{
+			if (node != nullptr)
+			{
+				destroyTree(node->left);
+				destroyTree(node->right);
+				delete node;
+			}
+		}
+
+		void Display_Menu()
+		{
+			cout << endl;
+			cout << "---------------------" << endl;
+			cout << "1.Insert Element into the tree" << endl;
+			cout << "2.PreOrder traversal" << endl;
+			cout << "3.InOrder traversal" << endl;
+			cout << "4.PostOrder traversal" << endl;
+			cout << "5.Clear Tree" << endl; // Added option to clear the tree
+			cout << "6.Exit" << endl;
+			cout << "---------------------" << endl;
+		}
+
+		bool validateMenuItemInput(string input)
+		{
+			try
+			{
+				int choice = stoi(input);
+				return choice >= 1 && choice <= 6;
+			}
+			catch (const invalid_argument& e)
+			{
+				return false;
+			}
+		}
+
+		bool validateFloatInput(string input)
+		{
+			try
+			{
+				stof(input);
+				return true;
+			}
+			catch (const invalid_argument& e)
+			{
+				return false;
+			}
+		}
 };
+
 int main()
 {
 	cout << "---------------------" << endl;
 	cout << "AVL Tree" << endl;
 	cout << "---------------------" << endl;
+
 	avlTree avl;
+
 	while (true)
 	{
 		avl.Display_Menu();
@@ -274,6 +316,7 @@ int main()
 		cout << endl;
 		cout << "Enter your Choice: ";
 		cin >> input;
+
 		if (avl.validateMenuItemInput(input))
 		{
 			int choice = stoi(input);
