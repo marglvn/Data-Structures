@@ -22,21 +22,9 @@ void Word_Process(string& word)
 
 int LinearSearch(string& unigram, set<string>& s)	//	Having trouble cycling through the set
 {
-	set<string>::iterator itr = s.begin();
-	int size = s.size();
+	set<string>::iterator itr;
 
-	for (itr = s.begin(); itr != s.end(); itr++)
-	{
-		int i = 0;
-		if (unigram == *itr)
-		{
-			
-			return i;
-		}
-		i++;
-	}
 
-	return -1;
 }
 
 void FillCount(vector<string>& v, set<string>& s, int* unique, int counter)
