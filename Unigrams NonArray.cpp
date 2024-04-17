@@ -20,11 +20,20 @@ void Word_Process(string& word)
 	}
 }
 
-int LinearSearch(string& unigram, set<string>& s)	//	Having trouble cycling through the set
+int LinearSearch(string& unigram, const set<string>& s)	//	Having trouble cycling through the set
 {
 	set<string>::iterator itr;
+	int index = 0;
 
-
+	for (itr = s.begin(); itr != s.end(); itr++)
+	{
+		if (unigram == *itr)
+		{
+			return index;
+		}
+		index++;
+	}
+	return -1;
 }
 
 void FillCount(vector<string>& v, set<string>& s, int* unique, int counter)
@@ -53,6 +62,8 @@ void display(vector<string>& v, set<string>& s)
 
 int main()
 {
+	clock_t begin, end;
+	begin = clock();
 	fstream file;
 	string filename_input, word;
 	int counter = 0;
@@ -88,4 +99,9 @@ int main()
 		cout << *itr << "          " << unique_count[i] << endl;
 		itr++;
 	}
+	end = clock();
+
+	double elapsed = double(end - begin) / CLOCKS_PER_SEC;
+
+	cout << elapsed << " seconds transpired" << endl;
 }
