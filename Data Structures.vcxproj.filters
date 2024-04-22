@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="PalindromeRecursion.cpp">
+    <ClCompile Include="attempt.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
